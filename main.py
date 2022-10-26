@@ -17,7 +17,7 @@ if __name__ == '__main__':
             if component.get('summary') == 'Programmiertechnik III SD Übung':
                 cal.subcomponents.remove(component)
 
-    f = open('SD_2021_1.ics', 'wb')
+    f = open('out/SD_2021_1.ics', 'wb')
     f.write(cal.to_ical())
     f.close()
 
@@ -48,6 +48,6 @@ if __name__ == '__main__':
             if component.get('summary') == 'Tutorium Programmiertechnik I + II SD Tutorium':
                 cal.subcomponents.remove(component)
 
-    f = open('SD_2022_1.ics', 'wb')
+    f = open('out/SD_2022_1.ics', 'wb')
     f.write(cal.to_ical())
     f.close()
