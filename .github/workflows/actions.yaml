@@ -48,4 +48,4 @@ jobs:
           destination-repository-name: "website"
           user-email: ideale.kritzeln_0u@icloud.com
           target-branch: main
-          target-directory: "content"
+          target-directory: "content/ics"
