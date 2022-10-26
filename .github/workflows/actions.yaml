@@ -43,8 +43,9 @@ jobs:
         env:
           SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
         with:
-          source-directory: 'out'
-          destination-github-username: 'Luungooo'
-          destination-repository-name: 'website'
+          source-directory: "out"
+          destination-github-username: "Luungooo"
+          destination-repository-name: "website"
           user-email: ideale.kritzeln_0u@icloud.com
           target-branch: main
+          target-directory: "content"
