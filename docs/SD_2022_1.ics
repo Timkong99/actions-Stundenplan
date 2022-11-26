@@ -3,162 +3,162 @@ VERSION:2.0
 PRODID:Nicolai Kobras
 BEGIN:VEVENT
 SUMMARY:Projektarbeit zu Projektmanagement SD Übung
-DTSTART:20230117T130000Z
-DTEND:20230117T143000Z
-DTSTAMP:20221126T161244Z
-UID:5007abfe-e0d6-4440-8f9f-3e7da025dedd@5007.org
+DTSTART:20221220T130000Z
+DTEND:20221220T143000Z
+DTSTAMP:20221126T171009Z
+UID:06c66d8d-bff2-4f89-a65f-b465ee2970f2@06c6.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2022-11-26 17:12:44
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektmanagement SD Vorlesung
-DTSTART:20221123T084500Z
-DTEND:20221123T101500Z
-DTSTAMP:20221126T161244Z
-UID:5bea6841-271c-466f-82ae-ac3f0a5187c9@5bea.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2022-11-26 17:12:44
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektarbeit zu Projektmanagement SD Übung
-DTSTART:20221122T130000Z
-DTEND:20221122T143000Z
-DTSTAMP:20221126T161244Z
-UID:58c47bf2-cfe7-47ea-b29d-61253425b46e@58c4.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2022-11-26 17:12:44
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektmanagement SD Vorlesung
-DTSTART:20221130T084500Z
-DTEND:20221130T101500Z
-DTSTAMP:20221126T161244Z
-UID:5a5b3991-7093-4770-a5a8-624bf1813752@5a5b.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2022-11-26 17:12:44
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektarbeit zu Projektmanagement SD Übung
-DTSTART:20221129T130000Z
-DTEND:20221129T143000Z
-DTSTAMP:20221126T161244Z
-UID:bac97fe8-0ef3-4234-b8b9-eff39db64476@bac9.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2022-11-26 17:12:44
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektmanagement SD Vorlesung
-DTSTART:20221207T084500Z
-DTEND:20221207T101500Z
-DTSTAMP:20221126T161244Z
-UID:e26367e1-b8e8-4c8b-9383-82a58f796595@e263.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2022-11-26 17:12:44
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektarbeit zu Projektmanagement SD Übung
-DTSTART:20221213T130000Z
-DTEND:20221213T143000Z
-DTSTAMP:20221126T161244Z
-UID:6d09c0de-042d-410f-8fbf-c43d6cdb9ccf@6d09.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2022-11-26 17:12:44
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektarbeit zu Projektmanagement SD Übung
-DTSTART:20230110T130000Z
-DTEND:20230110T143000Z
-DTSTAMP:20221126T161244Z
-UID:365b1a8a-3460-47fa-a516-eeb394dc3f59@365b.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2022-11-26 17:12:44
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektmanagement SD Vorlesung
-DTSTART:20230118T084500Z
-DTEND:20230118T101500Z
-DTSTAMP:20221126T161244Z
-UID:b5e2064e-d56a-4f6a-a6c4-6c184bc661e3@b5e2.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2022-11-26 17:12:44
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektmanagement SD Vorlesung
-DTSTART:20230111T084500Z
-DTEND:20230111T101500Z
-DTSTAMP:20221126T161244Z
-UID:bcb6f843-f7ba-4f1d-ad03-64a4b29d21c6@bcb6.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2022-11-26 17:12:44
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektarbeit zu Projektmanagement SD Übung
-DTSTART:20230124T130000Z
-DTEND:20230124T143000Z
-DTSTAMP:20221126T161244Z
-UID:684cb275-8578-4162-9dad-10892ca79352@684c.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2022-11-26 17:12:44
+ zt aktualisiert: 2022-11-26 18:10:09
 LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement SD Vorlesung
 DTSTART:20230125T084500Z
 DTEND:20230125T101500Z
-DTSTAMP:20221126T161244Z
-UID:407d56eb-3eac-4944-ad33-e2d07cc3f0a6@407d.org
+DTSTAMP:20221126T171009Z
+UID:cb2e9fad-5ce3-4f2d-940f-0be1535a2ea5@cb2e.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2022-11-26 17:12:44
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektarbeit zu Projektmanagement SD Übung
-DTSTART:20221220T130000Z
-DTEND:20221220T143000Z
-DTSTAMP:20221126T161244Z
-UID:5972be95-9e33-4899-a666-c591c9554cb7@5972.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2022-11-26 17:12:44
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektarbeit zu Projektmanagement SD Übung
-DTSTART:20221206T130000Z
-DTEND:20221206T143000Z
-DTSTAMP:20221126T161244Z
-UID:43ce4ab1-cdac-433f-b546-83d4276ef8e7@43ce.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2022-11-26 17:12:44
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektmanagement SD Vorlesung
-DTSTART:20221214T084500Z
-DTEND:20221214T101500Z
-DTSTAMP:20221126T161244Z
-UID:8c782460-2d8a-4e27-a1c7-93412f956b21@8c78.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2022-11-26 17:12:44
+ \n\n\nZuletzt aktualisiert: 2022-11-26 18:10:09
 LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement SD Vorlesung
 DTSTART:20221221T084500Z
 DTEND:20221221T101500Z
-DTSTAMP:20221126T161244Z
-UID:04dfae08-c976-4e32-8cee-397a57364452@04df.org
+DTSTAMP:20221126T171009Z
+UID:8e0cc9fc-e3c2-4513-a218-bb68612e89de@8e0c.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2022-11-26 17:12:44
+ \n\n\nZuletzt aktualisiert: 2022-11-26 18:10:09
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektarbeit zu Projektmanagement SD Übung
+DTSTART:20230124T130000Z
+DTEND:20230124T143000Z
+DTSTAMP:20221126T171009Z
+UID:006f0e32-b74e-48a2-b315-8e272f5e386e@006f.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2022-11-26 18:10:09
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektmanagement SD Vorlesung
+DTSTART:20221207T084500Z
+DTEND:20221207T101500Z
+DTSTAMP:20221126T171009Z
+UID:2daacf63-21a0-4e57-8f8a-a14805e672f4@2daa.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
+ \n\n\nZuletzt aktualisiert: 2022-11-26 18:10:09
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektmanagement SD Vorlesung
+DTSTART:20221130T084500Z
+DTEND:20221130T101500Z
+DTSTAMP:20221126T171009Z
+UID:d5e38985-0aea-4bdd-9c65-401353db34b0@d5e3.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
+ \n\n\nZuletzt aktualisiert: 2022-11-26 18:10:09
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektmanagement SD Vorlesung
+DTSTART:20221123T084500Z
+DTEND:20221123T101500Z
+DTSTAMP:20221126T171009Z
+UID:d7f30578-ef85-4e39-895d-f2a389b89767@d7f3.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
+ \n\n\nZuletzt aktualisiert: 2022-11-26 18:10:09
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektmanagement SD Vorlesung
+DTSTART:20221214T084500Z
+DTEND:20221214T101500Z
+DTSTAMP:20221126T171009Z
+UID:61eac1c6-a93a-4ae2-8751-448c24ddd776@61ea.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
+ \n\n\nZuletzt aktualisiert: 2022-11-26 18:10:09
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektarbeit zu Projektmanagement SD Übung
+DTSTART:20221129T130000Z
+DTEND:20221129T143000Z
+DTSTAMP:20221126T171009Z
+UID:90571ca6-97fa-4746-9b2c-118427cc62fc@9057.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2022-11-26 18:10:09
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektarbeit zu Projektmanagement SD Übung
+DTSTART:20221213T130000Z
+DTEND:20221213T143000Z
+DTSTAMP:20221126T171009Z
+UID:c0b375ba-cf7b-4cee-ba30-a6fdb7d5ccc3@c0b3.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2022-11-26 18:10:09
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektarbeit zu Projektmanagement SD Übung
+DTSTART:20221206T130000Z
+DTEND:20221206T143000Z
+DTSTAMP:20221126T171009Z
+UID:e51e2f68-167f-4474-b05a-ddba490d0034@e51e.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2022-11-26 18:10:09
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektmanagement SD Vorlesung
+DTSTART:20230118T084500Z
+DTEND:20230118T101500Z
+DTSTAMP:20221126T171009Z
+UID:8653b307-d94e-4c01-bc21-d9c9c296b298@8653.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
+ \n\n\nZuletzt aktualisiert: 2022-11-26 18:10:09
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektarbeit zu Projektmanagement SD Übung
+DTSTART:20230117T130000Z
+DTEND:20230117T143000Z
+DTSTAMP:20221126T171009Z
+UID:88d08f90-164b-49a4-a45e-88ca55bc75e1@88d0.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2022-11-26 18:10:09
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektarbeit zu Projektmanagement SD Übung
+DTSTART:20230110T130000Z
+DTEND:20230110T143000Z
+DTSTAMP:20221126T171009Z
+UID:822360b1-1653-4ece-a605-04151898437f@8223.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2022-11-26 18:10:09
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektarbeit zu Projektmanagement SD Übung
+DTSTART:20221122T130000Z
+DTEND:20221122T143000Z
+DTSTAMP:20221126T171009Z
+UID:0a5998d3-dd55-4015-b2b6-162b9c2df0e1@0a59.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2022-11-26 18:10:09
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektmanagement SD Vorlesung
+DTSTART:20230111T084500Z
+DTEND:20230111T101500Z
+DTSTAMP:20221126T171009Z
+UID:96bfbb22-513f-4af1-92b0-5dea572385a8@96bf.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
+ \n\n\nZuletzt aktualisiert: 2022-11-26 18:10:09
 LOCATION:Hörsaal C3-103
 END:VEVENT
 END:VCALENDAR
