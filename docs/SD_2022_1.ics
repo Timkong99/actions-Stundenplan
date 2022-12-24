@@ -2,83 +2,83 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:Nicolai Kobras
 BEGIN:VEVENT
+SUMMARY:Projektarbeit zu Projektmanagement SD Übung
+DTSTART:20230124T130000Z
+DTEND:20230124T143000Z
+DTSTAMP:20221224T151058Z
+UID:fa095f1c-ff06-4eed-a310-e5a932cfec69@fa09.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2022-12-24 16:10:58
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Projektmanagement SD Vorlesung
 DTSTART:20230118T084500Z
 DTEND:20230118T101500Z
-DTSTAMP:20221224T140940Z
-UID:d578e37d-f70b-4bfa-ad3d-4b80b1357a15@d578.org
+DTSTAMP:20221224T151058Z
+UID:cde31f1a-f955-4022-bace-c063a91f1e04@cde3.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2022-12-24 15:09:40
+ \n\n\nZuletzt aktualisiert: 2022-12-24 16:10:58
 LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektarbeit zu Projektmanagement SD Übung
 DTSTART:20230110T130000Z
 DTEND:20230110T143000Z
-DTSTAMP:20221224T140940Z
-UID:ea29c253-5789-4e6d-8ee1-a3f47f4e461f@ea29.org
+DTSTAMP:20221224T151058Z
+UID:5ebd0746-f5a9-44ba-90ce-96041a302d52@5ebd.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2022-12-24 15:09:40
+ zt aktualisiert: 2022-12-24 16:10:58
 LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektmanagement SD Vorlesung
-DTSTART:20221221T084500Z
-DTEND:20221221T101500Z
-DTSTAMP:20221224T140940Z
-UID:a7c3d2db-9b5e-466b-8ff8-e5409e23c14f@a7c3.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2022-12-24 15:09:40
-LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement SD Vorlesung
 DTSTART:20230111T084500Z
 DTEND:20230111T101500Z
-DTSTAMP:20221224T140940Z
-UID:30d39e06-d9a4-4fa0-a7ea-823ab0c7c036@30d3.org
+DTSTAMP:20221224T151058Z
+UID:afbfb4ff-e215-4796-8cb1-96a35db0c506@afbf.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2022-12-24 15:09:40
+ \n\n\nZuletzt aktualisiert: 2022-12-24 16:10:58
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektmanagement SD Vorlesung
+DTSTART:20221221T084500Z
+DTEND:20221221T101500Z
+DTSTAMP:20221224T151058Z
+UID:88d3b3c7-0fb7-4579-8a45-b7fff0290e68@88d3.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
+ \n\n\nZuletzt aktualisiert: 2022-12-24 16:10:58
 LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektarbeit zu Projektmanagement SD Übung
 DTSTART:20230117T130000Z
 DTEND:20230117T143000Z
-DTSTAMP:20221224T140940Z
-UID:44ff42e5-0ec5-459f-8adc-2721c45e4a16@44ff.org
+DTSTAMP:20221224T151058Z
+UID:e16388bd-3ee7-4c3f-9241-d409bb4cb74f@e163.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2022-12-24 15:09:40
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektarbeit zu Projektmanagement SD Übung
-DTSTART:20230124T130000Z
-DTEND:20230124T143000Z
-DTSTAMP:20221224T140940Z
-UID:40c93f0f-ea88-4a76-8251-e749d5db1905@40c9.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2022-12-24 15:09:40
+ zt aktualisiert: 2022-12-24 16:10:58
 LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektarbeit zu Projektmanagement SD Übung
 DTSTART:20221220T130000Z
 DTEND:20221220T143000Z
-DTSTAMP:20221224T140940Z
-UID:b4e650bd-44d3-4253-a905-fe2d5ae0952b@b4e6.org
+DTSTAMP:20221224T151058Z
+UID:9967d37c-c1b5-4c72-ae85-39926f5e0c1b@9967.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2022-12-24 15:09:40
+ zt aktualisiert: 2022-12-24 16:10:58
 LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement SD Vorlesung
 DTSTART:20230125T084500Z
 DTEND:20230125T101500Z
-DTSTAMP:20221224T140940Z
-UID:440e8fd3-1b45-43cd-bd1b-9a11c55131e9@440e.org
+DTSTAMP:20221224T151058Z
+UID:feccb049-4005-4e5e-a241-9efca9716930@fecc.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2022-12-24 15:09:40
+ \n\n\nZuletzt aktualisiert: 2022-12-24 16:10:58
 LOCATION:Hörsaal C3-103
 END:VEVENT
 END:VCALENDAR
