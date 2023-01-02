@@ -2,233 +2,233 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:Nicolai Kobras
 BEGIN:VEVENT
-SUMMARY:Betriebssysteme und Netzwerke SD Vorlesung
-DTSTART:20240112T103000Z
-DTEND:20240112T120000Z
-DTSTAMP:20230101T170909Z
-UID:b65ed37b-82e6-492f-bca1-4a0a250f12f6@b65e.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Abke\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-01-01 18:09:09
-LOCATION:Hörsaal 06-104
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kollaboration\, Qualität und Test SD Vorlesung
-DTSTART:20231222T130000Z
-DTEND:20231222T143000Z
-DTSTAMP:20230101T170909Z
-UID:06bcb3de-0cb0-45eb-bd97-f0b2f65243cd@06bc.org
+DTSTART:20240112T130000Z
+DTEND:20240112T143000Z
+DTSTAMP:20230102T071004Z
+UID:dc506bdc-3cd5-4ec6-b1e0-c050f5f63024@dc50.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-01-01 18:09:09
+ \nZuletzt aktualisiert: 2023-01-02 08:10:04
 LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen Data Science SD Übung
-DTSTART:20240118T070000Z
-DTEND:20240118T083000Z
-DTSTAMP:20230101T170909Z
-UID:9ae02302-120d-486d-b358-00dbcda5a899@9ae0.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Radke\nGruppen: 1\n\n\nZuletzt aktua
- lisiert: 2023-01-01 18:09:09
-LOCATION:Rechnerraum - Labor 26-318
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Requirements Engineering und Usability SD Vorlesung
-DTSTART:20231223T084500Z
-DTEND:20231223T120000Z
-DTSTAMP:20230101T170909Z
-UID:f2ac80e4-b328-4e5f-8c26-6d1171820918@f2ac.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-01-01 18:09:09
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen Data Science SD Übung
-DTSTART:20231221T070000Z
-DTEND:20231221T083000Z
-DTSTAMP:20230101T170909Z
-UID:bb0723a0-d77b-4208-8c24-9d03d9ff072a@bb07.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Radke\nGruppen: 1\n\n\nZuletzt aktua
- lisiert: 2023-01-01 18:09:09
-LOCATION:Rechnerraum - Labor 26-318
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kollaboration\, Qualität und Test SD Übung
-DTSTART:20231220T103000Z
-DTEND:20231220T120000Z
-DTSTAMP:20230101T170909Z
-UID:21dac989-d0c0-4f46-9c8a-cdaebcd45f78@21da.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-01-01 18:09:09
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kollaboration\, Qualität und Test SD Vorlesung
-DTSTART:20240119T130000Z
-DTEND:20240119T143000Z
-DTSTAMP:20230101T170909Z
-UID:60a9a066-1ed2-4883-9e36-baf5f5845a15@60a9.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-01-01 18:09:09
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen Data Science SD Vorlesung
-DTSTART:20240125T103000Z
-DTEND:20240125T120000Z
-DTSTAMP:20230101T170909Z
-UID:445f2f50-c1a0-46e2-847d-e359f4a957cb@445f.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Radke\nGruppen: 1\, 2\n\n\nZuletz
- t aktualisiert: 2023-01-01 18:09:09
-LOCATION:Rechnerraum - Labor 26-318
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Betriebssysteme und Netzwerke SD Übung
 DTSTART:20231222T084500Z
 DTEND:20231222T101500Z
-DTSTAMP:20230101T170909Z
-UID:4afbc53d-e608-4b68-94a0-77243a1df6a9@4afb.org
+DTSTAMP:20230102T071004Z
+UID:871db187-eec3-46da-a452-fffb09b58bba@871d.org
 DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Abke\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-01-01 18:09:09
+ tualisiert: 2023-01-02 08:10:04
 LOCATION:Rechnerraum 40-140
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kollaboration\, Qualität und Test SD Übung
-DTSTART:20240110T103000Z
-DTEND:20240110T120000Z
-DTSTAMP:20230101T170909Z
-UID:24f8695e-d280-481d-9308-23f10afe0874@24f8.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-01-01 18:09:09
-LOCATION:Hörsaal C3-103
+SUMMARY:Grundlagen Data Science SD Vorlesung
+DTSTART:20240125T103000Z
+DTEND:20240125T120000Z
+DTSTAMP:20230102T071004Z
+UID:0d97b308-138a-4a46-9219-7b8610f0d3b8@0d97.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Radke\nGruppen: 1\, 2\n\n\nZuletz
+ t aktualisiert: 2023-01-02 08:10:04
+LOCATION:Rechnerraum - Labor 26-318
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Betriebssysteme und Netzwerke SD Vorlesung
 DTSTART:20231222T103000Z
 DTEND:20231222T120000Z
-DTSTAMP:20230101T170909Z
-UID:5435898a-bdd2-42c4-8642-485d104afaec@5435.org
+DTSTAMP:20230102T071004Z
+UID:139f015a-b668-4e4a-8328-434c75d6dd89@139f.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Abke\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-01-01 18:09:09
+ etzt aktualisiert: 2023-01-02 08:10:04
 LOCATION:Hörsaal 06-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betriebssysteme und Netzwerke SD Übung
+DTSTART:20240112T084500Z
+DTEND:20240112T101500Z
+DTSTAMP:20230102T071004Z
+UID:d82eb94d-e65e-42ac-864f-fb4da5fd9f0d@d82e.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Abke\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-01-02 08:10:04
+LOCATION:Rechnerraum 40-140
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Betriebssysteme und Netzwerke SD Übung
 DTSTART:20240119T084500Z
 DTEND:20240119T101500Z
-DTSTAMP:20230101T170909Z
-UID:9d70f50a-8146-4745-90f5-5948b25a7ed7@9d70.org
+DTSTAMP:20230102T071004Z
+UID:3ade7a85-a535-41c2-a5b2-2dc858b049cc@3ade.org
 DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Abke\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-01-01 18:09:09
+ tualisiert: 2023-01-02 08:10:04
 LOCATION:Rechnerraum 40-140
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kollaboration\, Qualität und Test SD Vorlesung
-DTSTART:20240112T130000Z
-DTEND:20240112T143000Z
-DTSTAMP:20230101T170909Z
-UID:4b3d9726-5b32-4fa1-b7e9-724bef51fc51@4b3d.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-01-01 18:09:09
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Betriebssysteme und Netzwerke SD Vorlesung
-DTSTART:20240119T103000Z
-DTEND:20240119T120000Z
-DTSTAMP:20230101T170909Z
-UID:7c8fdb58-f732-4985-b385-74eef8fddd3e@7c8f.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Abke\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-01-01 18:09:09
-LOCATION:Hörsaal 06-104
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen Data Science SD Übung
-DTSTART:20240125T070000Z
-DTEND:20240125T083000Z
-DTSTAMP:20230101T170909Z
-UID:2a376e39-cd2c-4906-9833-1679322d19e3@2a37.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Radke\nGruppen: 1\n\n\nZuletzt aktua
- lisiert: 2023-01-01 18:09:09
+SUMMARY:Grundlagen Data Science SD Vorlesung
+DTSTART:20240118T103000Z
+DTEND:20240118T120000Z
+DTSTAMP:20230102T071004Z
+UID:be93f18b-ea56-4c36-a5cf-235b4f3e46e8@be93.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Radke\nGruppen: 1\, 2\n\n\nZuletz
+ t aktualisiert: 2023-01-02 08:10:04
 LOCATION:Rechnerraum - Labor 26-318
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kollaboration\, Qualität und Test SD Übung
-DTSTART:20240117T103000Z
-DTEND:20240117T120000Z
-DTSTAMP:20230101T170909Z
-UID:0af2969f-d0dd-4be6-9626-62e0d1844afd@0af2.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-01-01 18:09:09
-LOCATION:Hörsaal C3-103
+SUMMARY:Grundlagen Data Science SD Übung
+DTSTART:20231221T070000Z
+DTEND:20231221T083000Z
+DTSTAMP:20230102T071004Z
+UID:2db0f6fa-b353-44df-9391-a85d2f88ea74@2db0.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Radke\nGruppen: 1\n\n\nZuletzt aktua
+ lisiert: 2023-01-02 08:10:04
+LOCATION:Rechnerraum - Labor 26-318
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagen Data Science SD Übung
 DTSTART:20240111T070000Z
 DTEND:20240111T083000Z
-DTSTAMP:20230101T170909Z
-UID:87712c26-f762-4b3e-b5be-3efcdbe558a2@8771.org
+DTSTAMP:20230102T071004Z
+UID:49ee0f52-fc78-4eee-a5d3-f5905a8078ff@49ee.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Radke\nGruppen: 1\n\n\nZuletzt aktua
- lisiert: 2023-01-01 18:09:09
+ lisiert: 2023-01-02 08:10:04
+LOCATION:Rechnerraum - Labor 26-318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Requirements Engineering und Usability SD Vorlesung
+DTSTART:20240120T084500Z
+DTEND:20240120T120000Z
+DTSTAMP:20230102T071004Z
+UID:55af1cf2-df9c-406a-949d-4d55d3b1e012@55af.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-01-02 08:10:04
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kollaboration\, Qualität und Test SD Übung
+DTSTART:20240110T103000Z
+DTEND:20240110T120000Z
+DTSTAMP:20230102T071004Z
+UID:3a8573f3-5a2f-49ce-afb7-c1f63f41717d@3a85.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-01-02 08:10:04
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen Data Science SD Übung
+DTSTART:20240125T070000Z
+DTEND:20240125T083000Z
+DTSTAMP:20230102T071004Z
+UID:282641b3-2269-47d6-82d5-8c13fdf6496a@2826.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Radke\nGruppen: 1\n\n\nZuletzt aktua
+ lisiert: 2023-01-02 08:10:04
+LOCATION:Rechnerraum - Labor 26-318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen Data Science SD Übung
+DTSTART:20240118T070000Z
+DTEND:20240118T083000Z
+DTSTAMP:20230102T071004Z
+UID:cdadd667-0ba3-483f-a4f2-2f5b42fa8511@cdad.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Radke\nGruppen: 1\n\n\nZuletzt aktua
+ lisiert: 2023-01-02 08:10:04
 LOCATION:Rechnerraum - Labor 26-318
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagen Data Science SD Vorlesung
 DTSTART:20240111T103000Z
 DTEND:20240111T120000Z
-DTSTAMP:20230101T170909Z
-UID:53d84a2f-c223-490c-9661-641606e03074@53d8.org
+DTSTAMP:20230102T071004Z
+UID:8f1243cc-27c3-45ee-94be-cb95dcb5a6fe@8f12.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Radke\nGruppen: 1\, 2\n\n\nZuletz
- t aktualisiert: 2023-01-01 18:09:09
+ t aktualisiert: 2023-01-02 08:10:04
 LOCATION:Rechnerraum - Labor 26-318
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Betriebssysteme und Netzwerke SD Übung
-DTSTART:20240112T084500Z
-DTEND:20240112T101500Z
-DTSTAMP:20230101T170909Z
-UID:dc316bda-d89b-47b9-b518-c0ccf53105b0@dc31.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Abke\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-01-01 18:09:09
-LOCATION:Rechnerraum 40-140
+SUMMARY:Betriebssysteme und Netzwerke SD Vorlesung
+DTSTART:20240112T103000Z
+DTEND:20240112T120000Z
+DTSTAMP:20230102T071004Z
+UID:cf4d81b2-a27c-4b09-84d1-eb9878527381@cf4d.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Abke\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-01-02 08:10:04
+LOCATION:Hörsaal 06-104
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Requirements Engineering und Usability SD Vorlesung
-DTSTART:20240120T084500Z
-DTEND:20240120T120000Z
-DTSTAMP:20230101T170909Z
-UID:829afc86-c3f7-46f4-9b4e-48e5b105e1d7@829a.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-01-01 18:09:09
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kollaboration\, Qualität und Test SD Übung
-DTSTART:20240124T103000Z
-DTEND:20240124T120000Z
-DTSTAMP:20230101T170909Z
-UID:63c67877-5e77-4cd5-8b8b-c6ec650bd171@63c6.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-01-01 18:09:09
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen Data Science SD Vorlesung
-DTSTART:20240118T103000Z
-DTEND:20240118T120000Z
-DTSTAMP:20230101T170909Z
-UID:87a2ac9a-708b-4d9e-abe2-9ae552ccd9bb@87a2.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Radke\nGruppen: 1\, 2\n\n\nZuletz
- t aktualisiert: 2023-01-01 18:09:09
-LOCATION:Rechnerraum - Labor 26-318
+SUMMARY:Kollaboration\, Qualität und Test SD Vorlesung
+DTSTART:20231222T130000Z
+DTEND:20231222T143000Z
+DTSTAMP:20230102T071004Z
+UID:e4de84ca-5291-4d73-871a-b984eae461c4@e4de.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-01-02 08:10:04
+LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagen Data Science SD Vorlesung
 DTSTART:20231221T103000Z
 DTEND:20231221T120000Z
-DTSTAMP:20230101T170909Z
-UID:adb21408-5737-4eec-8dec-98d84ec979fb@adb2.org
+DTSTAMP:20230102T071004Z
+UID:3a72e465-9949-45d7-a4a8-8db4b2944edf@3a72.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Radke\nGruppen: 1\, 2\n\n\nZuletz
- t aktualisiert: 2023-01-01 18:09:09
+ t aktualisiert: 2023-01-02 08:10:04
 LOCATION:Rechnerraum - Labor 26-318
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kollaboration\, Qualität und Test SD Übung
+DTSTART:20231220T103000Z
+DTEND:20231220T120000Z
+DTSTAMP:20230102T071004Z
+UID:9856da0a-7dd3-4701-b40e-cf2e47cefb9c@9856.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-01-02 08:10:04
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kollaboration\, Qualität und Test SD Vorlesung
+DTSTART:20240119T130000Z
+DTEND:20240119T143000Z
+DTSTAMP:20230102T071004Z
+UID:c915ede4-ee81-4eee-8e5c-d76dbb272795@c915.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-01-02 08:10:04
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kollaboration\, Qualität und Test SD Übung
+DTSTART:20240124T103000Z
+DTEND:20240124T120000Z
+DTSTAMP:20230102T071004Z
+UID:7c382ebe-1f13-4735-82ca-57a82ace0df5@7c38.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-01-02 08:10:04
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Requirements Engineering und Usability SD Vorlesung
+DTSTART:20231223T084500Z
+DTEND:20231223T120000Z
+DTSTAMP:20230102T071004Z
+UID:d6fbaa1a-8bd8-409a-a1c5-0103496da690@d6fb.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-01-02 08:10:04
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Betriebssysteme und Netzwerke SD Vorlesung
+DTSTART:20240119T103000Z
+DTEND:20240119T120000Z
+DTSTAMP:20230102T071004Z
+UID:2eafd189-f478-4005-a17c-ba0121e871b3@2eaf.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Abke\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-01-02 08:10:04
+LOCATION:Hörsaal 06-104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kollaboration\, Qualität und Test SD Übung
+DTSTART:20240117T103000Z
+DTEND:20240117T120000Z
+DTSTAMP:20230102T071004Z
+UID:49e6c72c-ddaa-46c7-89ad-ca9e93025eab@49e6.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-01-02 08:10:04
+LOCATION:Hörsaal C3-103
 END:VEVENT
 END:VCALENDAR
