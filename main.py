@@ -8,8 +8,8 @@ if __name__ == '__main__':
 
     for component in cal.walk():
         if component.name == 'VEVENT':
-            #if component.get('summary') == 'Requirements Engineering und Usability SD Vorlesung':
-            #    cal.subcomponents.remove(component)
+            if component.get('summary') == 'Requirements Engineering und Usability SD Vorlesung':
+                cal.subcomponents.remove(component)
             if component.get('summary') == 'Requirements Engineering und Usability SD Übung':
                 cal.subcomponents.remove(component)
             if component.get('summary') == 'Programmiertechnik III SD Vorlesung':
