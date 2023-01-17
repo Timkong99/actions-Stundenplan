@@ -2,43 +2,43 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:Nicolai Kobras
 BEGIN:VEVENT
-SUMMARY:Projektmanagement SD Vorlesung
-DTSTART:20230125T084500Z
-DTEND:20230125T101500Z
-DTSTAMP:20230117T101028Z
-UID:dd674122-18e8-4fb7-b070-2c3b555fed2b@dd67.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2023-01-17 11:10:28
-LOCATION:Hörsaal C3-103
+SUMMARY:Projektarbeit zu Projektmanagement SD Übung
+DTSTART:20230117T130000Z
+DTEND:20230117T143000Z
+DTSTAMP:20230117T110935Z
+UID:be81c770-f7da-4a2c-9948-e29b7fdb739f@be81.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-01-17 12:09:35
+LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement SD Vorlesung
 DTSTART:20230118T084500Z
 DTEND:20230118T101500Z
-DTSTAMP:20230117T101028Z
-UID:8e6d2108-b200-4115-8cf5-8a4c5a4ed45c@8e6d.org
+DTSTAMP:20230117T110935Z
+UID:67f1cf34-1c2a-49d6-a7c9-58144300ec22@67f1.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2023-01-17 11:10:28
+ \n\n\nZuletzt aktualisiert: 2023-01-17 12:09:35
 LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektarbeit zu Projektmanagement SD Übung
 DTSTART:20230124T130000Z
 DTEND:20230124T143000Z
-DTSTAMP:20230117T101028Z
-UID:8aa222e7-3312-4f3c-a8ef-d9dca686cf33@8aa2.org
+DTSTAMP:20230117T110935Z
+UID:44696a63-3889-4aca-a447-e39a6d1aa62f@4469.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-01-17 11:10:28
+ zt aktualisiert: 2023-01-17 12:09:35
 LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Projektarbeit zu Projektmanagement SD Übung
-DTSTART:20230117T130000Z
-DTEND:20230117T143000Z
-DTSTAMP:20230117T101028Z
-UID:3e2ff3b4-c75a-43de-81e7-9ae12e4c7a3b@3e2f.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-01-17 11:10:28
-LOCATION:Seminarraum C3-107
+SUMMARY:Projektmanagement SD Vorlesung
+DTSTART:20230125T084500Z
+DTEND:20230125T101500Z
+DTSTAMP:20230117T110935Z
+UID:0688a8a2-09aa-4e10-b47e-273f582ec2db@0688.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
+ \n\n\nZuletzt aktualisiert: 2023-01-17 12:09:35
+LOCATION:Hörsaal C3-103
 END:VEVENT
 END:VCALENDAR
