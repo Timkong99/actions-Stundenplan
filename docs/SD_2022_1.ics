@@ -3,42 +3,42 @@ VERSION:2.0
 PRODID:Nicolai Kobras
 BEGIN:VEVENT
 SUMMARY:Projektarbeit zu Projektmanagement SD Übung
-DTSTART:20230124T130000Z
-DTEND:20230124T143000Z
-DTSTAMP:20230119T081317Z
-UID:5a5e1a8b-9431-4470-bf8c-e27cc238b84e@5a5e.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-01-19 09:13:17
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektarbeit zu Projektmanagement SD Übung
 DTSTART:20230117T130000Z
 DTEND:20230117T143000Z
-DTSTAMP:20230119T081317Z
-UID:4a0a5cf2-96b8-47d0-bf29-358e1331ce11@4a0a.org
+DTSTAMP:20230119T091017Z
+UID:bbb18e1e-4052-438c-b282-dcfcfec6c6cc@bbb1.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-01-19 09:13:17
+ zt aktualisiert: 2023-01-19 10:10:17
 LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement SD Vorlesung
 DTSTART:20230118T084500Z
 DTEND:20230118T101500Z
-DTSTAMP:20230119T081317Z
-UID:935e46ff-7d28-4d8b-8c15-3d76a16ec13b@935e.org
+DTSTAMP:20230119T091017Z
+UID:3621eeae-fd78-4c8b-92ed-244965146411@3621.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2023-01-19 09:13:17
+ \n\n\nZuletzt aktualisiert: 2023-01-19 10:10:17
 LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement SD Vorlesung
 DTSTART:20230125T084500Z
 DTEND:20230125T101500Z
-DTSTAMP:20230119T081317Z
-UID:0e372ab4-3392-4dae-85cf-d8e87e53b7eb@0e37.org
+DTSTAMP:20230119T091017Z
+UID:adf55cd8-501b-49ef-8da5-e360c105bfc6@adf5.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2023-01-19 09:13:17
+ \n\n\nZuletzt aktualisiert: 2023-01-19 10:10:17
 LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektarbeit zu Projektmanagement SD Übung
+DTSTART:20230124T130000Z
+DTEND:20230124T143000Z
+DTSTAMP:20230119T091017Z
+UID:fe0c6cfe-4648-4309-9329-d0e8781705e8@fe0c.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-01-19 10:10:17
+LOCATION:Seminarraum C3-107
 END:VEVENT
 END:VCALENDAR
