@@ -5,40 +5,40 @@ BEGIN:VEVENT
 SUMMARY:Projektarbeit zu Projektmanagement SD Übung
 DTSTART:20230117T130000Z
 DTEND:20230117T143000Z
-DTSTAMP:20230120T121633Z
-UID:1f0b74fc-07ee-440c-bea4-217be75f23b4@1f0b.org
+DTSTAMP:20230120T131822Z
+UID:3fecc335-cf5a-4e89-ab89-2d3173f49971@3fec.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-01-20 13:16:33
+ zt aktualisiert: 2023-01-20 14:18:22
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektarbeit zu Projektmanagement SD Übung
+DTSTART:20230124T130000Z
+DTEND:20230124T143000Z
+DTSTAMP:20230120T131822Z
+UID:a361fc00-cf1e-455f-9896-8a3f3973c75f@a361.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-01-20 14:18:22
 LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement SD Vorlesung
 DTSTART:20230118T084500Z
 DTEND:20230118T101500Z
-DTSTAMP:20230120T121633Z
-UID:e4d977b0-e4aa-4c7b-ad25-7168a34f33a4@e4d9.org
+DTSTAMP:20230120T131822Z
+UID:4b175896-9398-49d2-8c11-06e6769235c8@4b17.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2023-01-20 13:16:33
+ \n\n\nZuletzt aktualisiert: 2023-01-20 14:18:22
 LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektarbeit zu Projektmanagement SD Übung
-DTSTART:20230124T130000Z
-DTEND:20230124T143000Z
-DTSTAMP:20230120T121633Z
-UID:51843e40-4ac3-46b9-a309-e520768f2fd4@5184.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-01-20 13:16:33
-LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement SD Vorlesung
 DTSTART:20230125T084500Z
 DTEND:20230125T101500Z
-DTSTAMP:20230120T121633Z
-UID:2d68cfd4-07a8-4282-91ff-7fdabe75b15c@2d68.org
+DTSTAMP:20230120T131822Z
+UID:dbccb6eb-a151-49c7-8dca-35d850c11d62@dbcc.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2023-01-20 13:16:33
+ \n\n\nZuletzt aktualisiert: 2023-01-20 14:18:22
 LOCATION:Hörsaal C3-103
 END:VEVENT
 END:VCALENDAR
