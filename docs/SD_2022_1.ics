@@ -5,40 +5,40 @@ BEGIN:VEVENT
 SUMMARY:Projektarbeit zu Projektmanagement SD Übung
 DTSTART:20230124T130000Z
 DTEND:20230124T143000Z
-DTSTAMP:20230122T150942Z
-UID:5f8a6081-a0b6-4441-a6e2-813395830418@5f8a.org
+DTSTAMP:20230122T161049Z
+UID:8cccc406-9d01-49cb-a8fe-5ffd5db8d7eb@8ccc.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-01-22 16:09:42
+ zt aktualisiert: 2023-01-22 17:10:49
 LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektarbeit zu Projektmanagement SD Übung
-DTSTART:20230117T130000Z
-DTEND:20230117T143000Z
-DTSTAMP:20230122T150942Z
-UID:c3724519-fee2-460a-adbb-3220687a1aa6@c372.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-01-22 16:09:42
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projektmanagement SD Vorlesung
-DTSTART:20230118T084500Z
-DTEND:20230118T101500Z
-DTSTAMP:20230122T150942Z
-UID:c7af5405-dc15-44ff-96d4-dfcbdb7d759e@c7af.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2023-01-22 16:09:42
-LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement SD Vorlesung
 DTSTART:20230125T084500Z
 DTEND:20230125T101500Z
-DTSTAMP:20230122T150942Z
-UID:c88113ee-445d-4174-b9d2-622ebf6339ec@c881.org
+DTSTAMP:20230122T161049Z
+UID:00ad6d1d-eb92-4edd-9ea9-7e5b6adcbe33@00ad.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2023-01-22 16:09:42
+ \n\n\nZuletzt aktualisiert: 2023-01-22 17:10:49
 LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektmanagement SD Vorlesung
+DTSTART:20230118T084500Z
+DTEND:20230118T101500Z
+DTSTAMP:20230122T161049Z
+UID:1530a244-de93-4307-953e-f86925641686@1530.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
+ \n\n\nZuletzt aktualisiert: 2023-01-22 17:10:49
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projektarbeit zu Projektmanagement SD Übung
+DTSTART:20230117T130000Z
+DTEND:20230117T143000Z
+DTSTAMP:20230122T161049Z
+UID:ab2e65c1-1a31-4295-b338-4ea5ce52a7b4@ab2e.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-01-22 17:10:49
+LOCATION:Seminarraum C3-107
 END:VEVENT
 END:VCALENDAR
