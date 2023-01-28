@@ -5,30 +5,30 @@ BEGIN:VEVENT
 SUMMARY:Grundlagen Data Science SD Übung
 DTSTART:20230125T070000Z
 DTEND:20230125T083000Z
-DTSTAMP:20230128T070905Z
-UID:3becfea7-176d-447c-90e7-4b09e480f4f8@3bec.org
+DTSTAMP:20230128T081125Z
+UID:bcbd2e6d-34d3-41de-a513-10eab826c647@bcbd.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Radke\nGruppen: 1\n\n\nZuletzt aktua
- lisiert: 2023-01-28 08:09:05
-LOCATION:Rechnerraum - Labor 26-318
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen Data Science SD Vorlesung
-DTSTART:20230125T103000Z
-DTEND:20230125T120000Z
-DTSTAMP:20230128T070905Z
-UID:75faf1ad-7608-4606-b742-2af373d5e253@75fa.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Radke\nGruppen: 1\, 2\n\n\nZuletz
- t aktualisiert: 2023-01-28 08:09:05
+ lisiert: 2023-01-28 09:11:25
 LOCATION:Rechnerraum - Labor 26-318
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kollaboration\, Qualität und Test SD Übung
 DTSTART:20230124T103000Z
 DTEND:20230124T120000Z
-DTSTAMP:20230128T070905Z
-UID:efcfade0-194d-4ec9-b1e3-16b5e864f5d7@efcf.org
+DTSTAMP:20230128T081125Z
+UID:b2dec4e4-a8a5-4a21-90aa-864e2699a6af@b2de.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-01-28 08:09:05
+ zt aktualisiert: 2023-01-28 09:11:25
 LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen Data Science SD Vorlesung
+DTSTART:20230125T103000Z
+DTEND:20230125T120000Z
+DTSTAMP:20230128T081125Z
+UID:98be09f3-299f-487e-af1b-10b296d84acf@98be.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Radke\nGruppen: 1\, 2\n\n\nZuletz
+ t aktualisiert: 2023-01-28 09:11:25
+LOCATION:Rechnerraum - Labor 26-318
 END:VEVENT
 END:VCALENDAR
