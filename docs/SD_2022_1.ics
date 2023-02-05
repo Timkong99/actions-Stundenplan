@@ -5,20 +5,20 @@ BEGIN:VEVENT
 SUMMARY:Projektarbeit zu Projektmanagement SD Übung
 DTSTART:20230124T130000Z
 DTEND:20230124T143000Z
-DTSTAMP:20230205T140837Z
-UID:757395ef-ae8d-4597-9393-a8a6ad4338e2@7573.org
+DTSTAMP:20230205T150933Z
+UID:82ed156f-1e6a-4a0c-8ae0-ace53167d848@82ed.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-02-05 15:08:37
+ zt aktualisiert: 2023-02-05 16:09:33
 LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Projektmanagement SD Vorlesung
 DTSTART:20230125T084500Z
 DTEND:20230125T101500Z
-DTSTAMP:20230205T140837Z
-UID:90cb2f77-a9de-457f-b8b6-80f81d6b9ba3@90cb.org
+DTSTAMP:20230205T150933Z
+UID:0006aed2-fae7-4eef-ac1d-540dec04c37e@0006.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\, 3
- \n\n\nZuletzt aktualisiert: 2023-02-05 15:08:37
+ \n\n\nZuletzt aktualisiert: 2023-02-05 16:09:33
 LOCATION:Hörsaal C3-103
 END:VEVENT
 END:VCALENDAR
