@@ -2,1335 +2,106 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:Nicolai Kobras
 BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230328T074500Z
-DTEND:20230328T091500Z
-DTSTAMP:20230227T161419Z
-UID:cdadb1d4-336b-4648-a0ab-20184eb7787a@cdad.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230323T103000Z
-DTEND:20230323T120000Z
-DTSTAMP:20230227T161419Z
-UID:1fae39d2-4f18-480b-b28b-ac384741d7e5@1fae.org
-DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230330T120000Z
-DTEND:20230330T133000Z
-DTSTAMP:20230227T161419Z
-UID:1b538613-009a-49e9-af2b-03d9d0baf2fe@1b53.org
-DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230404T074500Z
-DTEND:20230404T091500Z
-DTSTAMP:20230227T161419Z
-UID:be27b3ed-0087-4bb9-ab76-6bfe42c5e114@be27.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Übung
-DTSTART:20230605T093000Z
-DTEND:20230605T110000Z
-DTSTAMP:20230227T161419Z
-UID:cc4c779b-c229-406e-847b-3fa2562ddb4d@cc4c.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Vorlesung
-DTSTART:20230418T060000Z
-DTEND:20230418T073000Z
-DTSTAMP:20230227T161419Z
-UID:dea8f55e-1fca-4ceb-882f-946270c5acc9@dea8.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230615T074500Z
-DTEND:20230615T091500Z
-DTSTAMP:20230227T161419Z
-UID:3320d539-eea5-4159-b0a9-8c3c59630272@3320.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Vorlesung
-DTSTART:20230606T093000Z
-DTEND:20230606T110000Z
-DTSTAMP:20230227T161419Z
-UID:929f9fb5-fea4-470f-adcc-30323503033a@929f.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Übung
-DTSTART:20230508T074500Z
-DTEND:20230508T091500Z
-DTSTAMP:20230227T161419Z
-UID:130aa06e-ad18-46e0-9739-c942fc17c686@130a.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Übung
-DTSTART:20230515T093000Z
-DTEND:20230515T110000Z
-DTSTAMP:20230227T161419Z
-UID:84578237-eadd-455d-980a-512003dc88a2@8457.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230419T093000Z
-DTEND:20230419T110000Z
-DTSTAMP:20230227T161419Z
-UID:ae5149c3-5d20-4981-8ac0-fc53d2c50f49@ae51.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230615T120000Z
-DTEND:20230615T133000Z
-DTSTAMP:20230227T161419Z
-UID:baed8bd9-1bde-4374-8bd0-c99970d80ec6@baed.org
-DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Vorlesung
-DTSTART:20230425T093000Z
-DTEND:20230425T110000Z
-DTSTAMP:20230227T161419Z
-UID:da5d0736-7721-43a4-8b4e-9241836499ab@da5d.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230316T103000Z
-DTEND:20230316T120000Z
-DTSTAMP:20230227T161419Z
-UID:49776c56-5177-4d38-8ba7-d99b20333bff@4977.org
-DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Übung
-DTSTART:20230509T120000Z
-DTEND:20230509T133000Z
-DTSTAMP:20230227T161419Z
-UID:0b131b87-a349-4f7d-af1b-25a46a474ff7@0b13.org
-DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230706T120000Z
-DTEND:20230706T133000Z
-DTSTAMP:20230227T161419Z
-UID:98831082-22ad-49a3-8fe0-94ab6f1f1d26@9883.org
-DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230516T134500Z
-DTEND:20230516T151500Z
-DTSTAMP:20230227T161419Z
-UID:88e7bdf2-0fe7-4c66-aa57-f443d2531369@88e7.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230425T074500Z
-DTEND:20230425T091500Z
-DTSTAMP:20230227T161419Z
-UID:4e017c05-cf96-4b80-aa8f-e18b4aa8dc09@4e01.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230621T093000Z
-DTEND:20230621T110000Z
-DTSTAMP:20230227T161419Z
-UID:35e7d519-23b7-4109-8519-15afe749b1c4@35e7.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Übung
-DTSTART:20230703T093000Z
-DTEND:20230703T110000Z
-DTSTAMP:20230227T161419Z
-UID:e2412fea-6b5e-448a-90e5-b9c4c40a8956@e241.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230504T074500Z
-DTEND:20230504T091500Z
-DTSTAMP:20230227T161419Z
-UID:003f3cee-85f9-49ee-a502-8894ee672835@003f.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230504T093000Z
-DTEND:20230504T110000Z
-DTSTAMP:20230227T161419Z
-UID:1c5da1c9-7f5a-4c3c-925c-6de9c3a5a91d@1c5d.org
-DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230606T134500Z
-DTEND:20230606T151500Z
-DTSTAMP:20230227T161419Z
-UID:6166d26b-91ea-432f-b8ac-7b7d9c0f8388@6166.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Vorlesung
-DTSTART:20230516T060000Z
-DTEND:20230516T073000Z
-DTSTAMP:20230227T161419Z
-UID:c2527d79-f10b-4ccc-9555-9113714a7b63@c252.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Übung
-DTSTART:20230606T120000Z
-DTEND:20230606T133000Z
-DTSTAMP:20230227T161419Z
-UID:0aa07a12-cbd7-4bf1-a1cc-fb3e949ff69c@0aa0.org
-DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230315T103000Z
-DTEND:20230315T120000Z
-DTSTAMP:20230227T161419Z
-UID:7382539f-3ed1-4068-80f1-971077cc35f5@7382.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Übung
-DTSTART:20230404T120000Z
-DTEND:20230404T133000Z
-DTSTAMP:20230227T161419Z
-UID:1196de16-ffe2-496f-aa33-3236e7a55a30@1196.org
-DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230704T074500Z
-DTEND:20230704T091500Z
-DTSTAMP:20230227T161419Z
-UID:03ae4698-3faa-4f99-990b-7659637b4ada@03ae.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Vorlesung
-DTSTART:20230328T093000Z
-DTEND:20230328T110000Z
-DTSTAMP:20230227T161419Z
-UID:3267e529-0dee-4d5c-8ebe-2b42f2dab789@3267.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230426T093000Z
-DTEND:20230426T110000Z
-DTSTAMP:20230227T161419Z
-UID:0af4eeb8-2372-47f3-8c02-0e6c4f6d6abf@0af4.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Vorlesung
-DTSTART:20230523T093000Z
-DTEND:20230523T110000Z
-DTSTAMP:20230227T161419Z
-UID:87eea0d7-b358-477a-be10-f9abe5c95e43@87ee.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230426T074500Z
-DTEND:20230426T091500Z
-DTSTAMP:20230227T161419Z
-UID:88362192-1112-4512-b73b-ed42d6624983@8836.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Vorlesung
-DTSTART:20230620T060000Z
-DTEND:20230620T073000Z
-DTSTAMP:20230227T161419Z
-UID:94eaf490-2cad-439d-a1c9-025d93fc1164@94ea.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Übung
-DTSTART:20230424T074500Z
-DTEND:20230424T091500Z
-DTSTAMP:20230227T161419Z
-UID:acfb1d72-1ae7-4d10-ae56-4110a16de549@acfb.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230321T084500Z
-DTEND:20230321T101500Z
-DTSTAMP:20230227T161419Z
-UID:8cb24546-b71b-4f34-94ca-9380dcedb61d@8cb2.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230413T074500Z
-DTEND:20230413T091500Z
-DTSTAMP:20230227T161419Z
-UID:69a7bb9e-2c58-4eb8-845d-960967d928be@69a7.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Übung
-DTSTART:20230626T074500Z
-DTEND:20230626T091500Z
-DTSTAMP:20230227T161419Z
-UID:5b95e34d-3a46-434b-b684-ea4342322241@5b95.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Übung
-DTSTART:20230627T120000Z
-DTEND:20230627T133000Z
-DTSTAMP:20230227T161419Z
-UID:ea6418df-110f-4727-b70f-deb958e4ad73@ea64.org
-DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230705T074500Z
-DTEND:20230705T091500Z
-DTSTAMP:20230227T161419Z
-UID:5ad95754-31a2-437b-9122-967147571867@5ad9.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Übung
-DTSTART:20230424T093000Z
-DTEND:20230424T110000Z
-DTSTAMP:20230227T161419Z
-UID:0bcdcd25-1a6d-4d63-a8c9-d8e4a3fc615e@0bcd.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230627T074500Z
-DTEND:20230627T091500Z
-DTSTAMP:20230227T161419Z
-UID:9671e7c4-27cc-4b7a-9a8e-ff6e13960071@9671.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Vorlesung
-DTSTART:20230606T060000Z
-DTEND:20230606T073000Z
-DTSTAMP:20230227T161419Z
-UID:e80fc74e-767b-4500-8a8b-71c15535a9f8@e80f.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230620T134500Z
-DTEND:20230620T151500Z
-DTSTAMP:20230227T161419Z
-UID:f6bdd902-b130-4774-adff-f2d91ad203f8@f6bd.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Vorlesung
-DTSTART:20230418T093000Z
-DTEND:20230418T110000Z
-DTSTAMP:20230227T161419Z
-UID:35ab697a-7b75-4e12-9aae-04c5012dd0e6@35ab.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Vorlesung
-DTSTART:20230502T060000Z
-DTEND:20230502T073000Z
-DTSTAMP:20230227T161419Z
-UID:5fcd7532-cb5b-43c3-8d90-b51bc1fce5b7@5fcd.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230316T130000Z
-DTEND:20230316T143000Z
-DTSTAMP:20230227T161419Z
-UID:1ad790d5-7b9d-4861-8f04-0c67b8ff297c@1ad7.org
-DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230329T093000Z
-DTEND:20230329T110000Z
-DTSTAMP:20230227T161419Z
-UID:086fc885-0ce9-4c4e-8e88-67b2fe68fc6c@086f.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Vorlesung
-DTSTART:20230509T060000Z
-DTEND:20230509T073000Z
-DTSTAMP:20230227T161419Z
-UID:5feb3f07-d7ef-46e0-a8d5-665cfa832c6e@5feb.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230420T120000Z
-DTEND:20230420T133000Z
-DTSTAMP:20230227T161419Z
-UID:37dc4326-d9a4-4163-8a5d-0ea5f9b5ea49@37dc.org
-DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Vorlesung
-DTSTART:20230516T093000Z
-DTEND:20230516T110000Z
-DTSTAMP:20230227T161419Z
-UID:85ed67f7-c99e-4cc3-8d3b-51b965ea3daf@85ed.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230621T074500Z
-DTEND:20230621T091500Z
-DTSTAMP:20230227T161419Z
-UID:e6894d24-12f0-4e83-84f2-1377d6696b0b@e689.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230509T134500Z
-DTEND:20230509T151500Z
-DTSTAMP:20230227T161419Z
-UID:34c7a72d-998b-4da3-9cbe-f792f35e4bcf@34c7.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230525T120000Z
-DTEND:20230525T133000Z
-DTSTAMP:20230227T161419Z
-UID:ed783e49-4177-457b-8634-fab4abd3625d@ed78.org
-DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230531T093000Z
-DTEND:20230531T110000Z
-DTSTAMP:20230227T161419Z
-UID:0657093e-90f9-4991-9d45-f1b46c21ff34@0657.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Übung
-DTSTART:20230612T074500Z
-DTEND:20230612T091500Z
-DTSTAMP:20230227T161419Z
-UID:6e4bf6c2-f18d-422f-978f-0c2a33df733d@6e4b.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Vorlesung
-DTSTART:20230620T093000Z
-DTEND:20230620T110000Z
-DTSTAMP:20230227T161419Z
-UID:59844119-f680-42b1-aa2b-6e4e1f3a711e@5984.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230322T084500Z
-DTEND:20230322T101500Z
-DTSTAMP:20230227T161419Z
-UID:96f3ea51-5db9-462d-8c1d-d086e7d71b8a@96f3.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230427T074500Z
-DTEND:20230427T091500Z
-DTSTAMP:20230227T161419Z
-UID:00a8f6c9-a8fc-4b58-8b0c-e56dab4cc7a0@00a8.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230606T074500Z
-DTEND:20230606T091500Z
-DTSTAMP:20230227T161419Z
-UID:e78cd99c-fe17-4201-acf7-cce584e4c28c@e78c.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Vorlesung
-DTSTART:20230404T060000Z
-DTEND:20230404T073000Z
-DTSTAMP:20230227T161419Z
-UID:6918feca-e2d2-43f0-8fc0-b8c61464ddf4@6918.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230405T093000Z
-DTEND:20230405T110000Z
-DTSTAMP:20230227T161419Z
-UID:f4319a18-5650-40cc-9a33-f5e83af14171@f431.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230323T130000Z
-DTEND:20230323T143000Z
-DTSTAMP:20230227T161419Z
-UID:c828872d-5405-4939-a270-098a33634ce9@c828.org
-DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230316T084500Z
-DTEND:20230316T101500Z
-DTSTAMP:20230227T161419Z
-UID:3e76c3ad-b56c-4ab8-9578-e5530a822d57@3e76.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Vorlesung
-DTSTART:20230523T060000Z
-DTEND:20230523T073000Z
-DTSTAMP:20230227T161419Z
-UID:0df81efa-0127-4b0b-869a-c102dd537707@0df8.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230629T074500Z
-DTEND:20230629T091500Z
-DTSTAMP:20230227T161419Z
-UID:09f77c37-9d9b-43f1-9989-5d5b6d7802b8@09f7.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Übung
-DTSTART:20230619T074500Z
-DTEND:20230619T091500Z
-DTSTAMP:20230227T161419Z
-UID:b8911bd6-1bda-4c5d-9120-418262fd4323@b891.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230412T074500Z
-DTEND:20230412T091500Z
-DTSTAMP:20230227T161419Z
-UID:f809790b-8171-4d72-8e99-951b50070d55@f809.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230706T074500Z
-DTEND:20230706T091500Z
-DTSTAMP:20230227T161419Z
-UID:a9e557fd-83ab-4ae9-98f1-71b041e93372@a9e5.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230511T093000Z
-DTEND:20230511T110000Z
-DTSTAMP:20230227T161419Z
-UID:718ad6d4-ea2a-47c7-81d5-a5e5a47d916c@718a.org
-DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230706T093000Z
-DTEND:20230706T110000Z
-DTSTAMP:20230227T161419Z
-UID:1fc75326-d904-4ac9-8553-0cd31cc9a677@1fc7.org
-DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Übung
-DTSTART:20230704T120000Z
-DTEND:20230704T133000Z
-DTSTAMP:20230227T161419Z
-UID:e7f8d0a2-6042-4fc8-b7c7-fddaf8d604dc@e7f8.org
-DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230622T120000Z
-DTEND:20230622T133000Z
-DTSTAMP:20230227T161419Z
-UID:9e44548a-246d-418e-bb4a-ab73784d66a8@9e44.org
-DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230418T134500Z
-DTEND:20230418T151500Z
-DTSTAMP:20230227T161419Z
-UID:7089a1b6-9bc0-48bb-b418-ce7bffa834f3@7089.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230404T134500Z
-DTEND:20230404T151500Z
-DTSTAMP:20230227T161419Z
-UID:1490a70d-2a8e-493f-bcfb-f62a801ef11d@1490.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Übung
-DTSTART:20230403T093000Z
-DTEND:20230403T110000Z
-DTSTAMP:20230227T161419Z
-UID:7b501d91-499b-4c75-b382-d261867de793@7b50.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230601T074500Z
-DTEND:20230601T091500Z
-DTSTAMP:20230227T161419Z
-UID:95833328-5c3d-41af-ae96-b9370ef616b5@9583.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230615T093000Z
-DTEND:20230615T110000Z
-DTSTAMP:20230227T161419Z
-UID:1eade8fa-cfb8-478e-8778-ed66889f748f@1ead.org
-DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Übung
-DTSTART:20230328T120000Z
-DTEND:20230328T133000Z
-DTSTAMP:20230227T161419Z
-UID:e741edae-311c-47da-becb-03353acaf623@e741.org
-DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Übung
-DTSTART:20230417T093000Z
-DTEND:20230417T110000Z
-DTSTAMP:20230227T161419Z
-UID:2a1d79df-5efb-4700-8432-dea281761186@2a1d.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230524T074500Z
-DTEND:20230524T091500Z
-DTSTAMP:20230227T161419Z
-UID:c23afeaf-ab69-4fb1-832e-b8e3d86de35f@c23a.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230413T120000Z
-DTEND:20230413T133000Z
-DTSTAMP:20230227T161419Z
-UID:6fd7aa5c-ac1c-46b6-a955-70929891bf11@6fd7.org
-DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Übung
-DTSTART:20230403T074500Z
-DTEND:20230403T091500Z
-DTSTAMP:20230227T161419Z
-UID:212bdb74-363c-44d8-b851-06c2463f6552@212b.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Vorlesung
-DTSTART:20230425T060000Z
-DTEND:20230425T073000Z
-DTSTAMP:20230227T161419Z
-UID:658a59d1-d28e-4088-86e5-d5a953c567cf@658a.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230511T074500Z
-DTEND:20230511T091500Z
-DTSTAMP:20230227T161419Z
-UID:68fb2814-ef91-4c9f-b961-f250844c3d8f@68fb.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230330T093000Z
-DTEND:20230330T110000Z
-DTSTAMP:20230227T161419Z
-UID:ebf2f524-2922-4e54-ade3-34e4a5ab7a85@ebf2.org
-DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Übung
-DTSTART:20230523T120000Z
-DTEND:20230523T133000Z
-DTSTAMP:20230227T161419Z
-UID:98899e5e-7993-4fbc-ba68-2450b59e108f@9889.org
-DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230328T134500Z
-DTEND:20230328T151500Z
-DTSTAMP:20230227T161419Z
-UID:46779052-d7ac-4413-912c-e8c4814543dc@4677.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230601T120000Z
-DTEND:20230601T133000Z
-DTSTAMP:20230227T161419Z
-UID:737ee321-1eef-407e-a808-b33729a2a0b2@737e.org
-DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230427T120000Z
-DTEND:20230427T133000Z
-DTSTAMP:20230227T161419Z
-UID:8256c79f-25f1-4634-adce-2b7ae7ccbc19@8256.org
-DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Übung
-DTSTART:20230613T120000Z
-DTEND:20230613T133000Z
-DTSTAMP:20230227T161419Z
-UID:0e2b7216-a065-4c90-828a-34031a302eb1@0e2b.org
-DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230525T074500Z
-DTEND:20230525T091500Z
-DTSTAMP:20230227T161419Z
-UID:cf43c23c-2fcc-4cc0-9284-37e4c2a1720c@cf43.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230627T134500Z
-DTEND:20230627T151500Z
-DTSTAMP:20230227T161419Z
-UID:963f3a25-661d-4acc-b049-ac61ca005b9b@963f.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230321T144500Z
-DTEND:20230321T161500Z
-DTSTAMP:20230227T161419Z
-UID:ff9daf70-4624-4eae-8c2d-2340a7698bee@ff9d.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230614T093000Z
-DTEND:20230614T110000Z
-DTSTAMP:20230227T161419Z
-UID:9079c72a-d22a-4b63-ab3a-c7ae65a5c05c@9079.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230427T093000Z
-DTEND:20230427T110000Z
-DTSTAMP:20230227T161419Z
-UID:13031cbf-6226-4809-bd8b-3c2fbf373f70@1303.org
-DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Übung
-DTSTART:20230612T093000Z
-DTEND:20230612T110000Z
-DTSTAMP:20230227T161419Z
-UID:94078fa4-b8c5-4125-acd3-f435efa2a4d7@9407.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230620T074500Z
-DTEND:20230620T091500Z
-DTSTAMP:20230227T161419Z
-UID:b5e7e982-7800-4d23-b761-934314bc8ca9@b5e7.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230413T093000Z
-DTEND:20230413T110000Z
-DTSTAMP:20230227T161419Z
-UID:ff36b7cf-afec-40ad-b38e-5eacebeb5ced@ff36.org
-DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Vorlesung
-DTSTART:20230509T093000Z
-DTEND:20230509T110000Z
-DTSTAMP:20230227T161419Z
-UID:a86d924e-ac60-455b-904b-f29e1e3f3bd2@a86d.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230531T074500Z
-DTEND:20230531T091500Z
-DTSTAMP:20230227T161419Z
-UID:5972ac10-ee2e-410c-bc81-0b7ea72019a5@5972.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Übung
-DTSTART:20230619T093000Z
-DTEND:20230619T110000Z
-DTSTAMP:20230227T161419Z
-UID:a925f86e-2929-4ac3-86b3-8745f8a4db38@a925.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230629T093000Z
-DTEND:20230629T110000Z
-DTSTAMP:20230227T161419Z
-UID:f29c0fa4-efda-4b96-8122-acc897462bb4@f29c.org
-DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230420T074500Z
-DTEND:20230420T091500Z
-DTSTAMP:20230227T161419Z
-UID:81a3f468-07c6-4fe7-a55b-a71cb48000c0@81a3.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Übung
-DTSTART:20230327T093000Z
-DTEND:20230327T110000Z
-DTSTAMP:20230227T161419Z
-UID:b7d44514-97af-404b-814b-e5486c0c67b9@b7d4.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230607T093000Z
-DTEND:20230607T110000Z
-DTSTAMP:20230227T161419Z
-UID:6c1d5893-e658-4d74-8981-a97dd2af401f@6c1d.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230622T074500Z
-DTEND:20230622T091500Z
-DTSTAMP:20230227T161419Z
-UID:5329436c-89e5-40e2-bdd6-e967ef605038@5329.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230405T074500Z
-DTEND:20230405T091500Z
-DTSTAMP:20230227T161419Z
-UID:0a511cdf-9f18-4984-95be-e833647f05a1@0a51.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Vorlesung
-DTSTART:20230627T093000Z
-DTEND:20230627T110000Z
-DTSTAMP:20230227T161419Z
-UID:22f4aa79-6b5b-487d-9d9a-e6339b67b07a@22f4.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230525T093000Z
-DTEND:20230525T110000Z
-DTSTAMP:20230227T161419Z
-UID:8b54645d-3774-49e0-bd12-37aa9ee17803@8b54.org
-DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Übung
-DTSTART:20230703T074500Z
-DTEND:20230703T091500Z
-DTSTAMP:20230227T161419Z
-UID:76a6a752-5dcc-42b0-a00f-682377f40ff8@76a6.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230517T093000Z
-DTEND:20230517T110000Z
-DTSTAMP:20230227T161419Z
-UID:df8a1a67-faed-4b4d-a81c-f587ec3d048c@df8a.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230628T074500Z
-DTEND:20230628T091500Z
-DTSTAMP:20230227T161419Z
-UID:12bbf24c-fd96-4c49-bbef-0d2299b33eaa@12bb.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230502T134500Z
-DTEND:20230502T151500Z
-DTSTAMP:20230227T161419Z
-UID:5a5e15d2-c308-40ec-a77f-0bbcc620d3bb@5a5e.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230503T093000Z
-DTEND:20230503T110000Z
-DTSTAMP:20230227T161419Z
-UID:6497f126-bb09-4bd6-b36c-c5bfd22d606e@6497.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mathematik II SD Übung
 DTSTART:20230321T130000Z
 DTEND:20230321T143000Z
-DTSTAMP:20230227T161419Z
-UID:53f8236f-1d8a-43ee-a816-9f0abec58e33@53f8.org
+DTSTAMP:20230227T171116Z
+UID:d45275e3-63cb-4dc3-80af-618ffdd2033f@d452.org
 DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
+  aktualisiert: 2023-02-27 18:11:16
 LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230524T093000Z
-DTEND:20230524T110000Z
-DTSTAMP:20230227T161419Z
-UID:3e27a6be-9b77-4e32-a19e-b1bda32620fb@3e27.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230628T093000Z
-DTEND:20230628T110000Z
-DTSTAMP:20230227T161419Z
-UID:a144cf11-e169-4638-ac21-cf4aeac96e63@a144.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230705T093000Z
-DTEND:20230705T110000Z
-DTSTAMP:20230227T161419Z
-UID:3dfeff50-e1dd-46de-8ec8-f1cf6ea8bcd3@3dfe.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Vorlesung
-DTSTART:20230613T093000Z
-DTEND:20230613T110000Z
-DTSTAMP:20230227T161419Z
-UID:732bc8df-149e-4521-a76e-b51b510b64c2@732b.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Übung
-DTSTART:20230522T093000Z
-DTEND:20230522T110000Z
-DTSTAMP:20230227T161419Z
-UID:2530b389-b59b-4336-877f-2190a89bcfb3@2530.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Vorlesung
-DTSTART:20230704T060000Z
-DTEND:20230704T073000Z
-DTSTAMP:20230227T161419Z
-UID:dea00efe-d542-4b59-b845-2946e7e011a0@dea0.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230601T093000Z
-DTEND:20230601T110000Z
-DTSTAMP:20230227T161419Z
-UID:a968a7af-5b7d-40c8-ac9c-bd16b75d0b38@a968.org
-DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Vorlesung
-DTSTART:20230627T060000Z
-DTEND:20230627T073000Z
-DTSTAMP:20230227T161419Z
-UID:fe48c4ac-587c-458c-b4f6-b679d3b6cc76@fe48.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theoretische Informatik SD Vorlesung
 DTSTART:20230704T093000Z
 DTEND:20230704T110000Z
-DTSTAMP:20230227T161419Z
-UID:db7a629c-2469-4c2d-9201-708c118ab92f@db7a.org
+DTSTAMP:20230227T171116Z
+UID:27351044-862a-4d5d-a416-37dfb5658d6c@2735.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
+ zt aktualisiert: 2023-02-27 18:11:16
 LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230621T093000Z
+DTEND:20230621T110000Z
+DTSTAMP:20230227T171116Z
+UID:7e1b6729-75a9-46c0-b744-a376cd751dbf@7e1b.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathematik II SD Vorlesung
 DTSTART:20230328T060000Z
 DTEND:20230328T073000Z
-DTSTAMP:20230227T161419Z
-UID:e6400ce6-4d5a-42ec-8603-ffced259c39a@e640.org
+DTSTAMP:20230227T171116Z
+UID:ed3fe8f3-448f-4e86-8c81-a75f3257d2d6@ed3f.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
 LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230613T134500Z
-DTEND:20230613T151500Z
-DTSTAMP:20230227T161419Z
-UID:4b37d6ac-05e1-4b75-9e3f-5a34d1655004@4b37.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230705T093000Z
+DTEND:20230705T110000Z
+DTSTAMP:20230227T171116Z
+UID:9822fd2f-a962-47fa-8889-2b9b79a60d7a@9822.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
 LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
  105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230418T074500Z
-DTEND:20230418T091500Z
-DTSTAMP:20230227T161419Z
-UID:6e6b2c05-19ac-4ece-a28e-9bb90d5f58f7@6e6b.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
+SUMMARY:Mathematik II SD Übung
+DTSTART:20230606T120000Z
+DTEND:20230606T133000Z
+DTSTAMP:20230227T171116Z
+UID:8f609ecf-247e-4d40-9c35-8317debf0739@8f60.org
+DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
+  aktualisiert: 2023-02-27 18:11:16
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230531T093000Z
+DTEND:20230531T110000Z
+DTSTAMP:20230227T171116Z
+UID:a45150c7-3f5a-4cd3-8205-2347c2e09230@a451.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Vorlesung
+DTSTART:20230425T093000Z
+DTEND:20230425T110000Z
+DTSTAMP:20230227T171116Z
+UID:9a6f6b54-aa68-4e82-ba0b-8161ad541835@9a6f.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
+DTSTART:20230622T074500Z
+DTEND:20230622T091500Z
+DTSTAMP:20230227T171116Z
+UID:2eae674d-de0f-43d2-852f-b3f9892914ea@2eae.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
 LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230523T074500Z
-DTEND:20230523T091500Z
-DTSTAMP:20230227T161419Z
-UID:5b76b8f9-4f49-41c4-98e7-06e9ed5510c1@5b76.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Übung
-DTSTART:20230417T074500Z
-DTEND:20230417T091500Z
-DTSTAMP:20230227T161419Z
-UID:a828dc9b-4bdc-4cf8-8a01-8dd25fec7281@a828.org
+SUMMARY:Programmiertechnik II SD Übung
+DTSTART:20230515T093000Z
+DTEND:20230515T110000Z
+DTSTAMP:20230227T171116Z
+UID:f3a22872-5d8c-4235-8a27-b0b786be0c74@f3a2.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
+ tualisiert: 2023-02-27 18:11:16
 LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
  105
 END:VEVENT
@@ -1338,103 +109,122 @@ BEGIN:VEVENT
 SUMMARY:Theoretische Informatik SD Vorlesung
 DTSTART:20230502T093000Z
 DTEND:20230502T110000Z
-DTSTAMP:20230227T161419Z
-UID:acf5bd76-9027-4a84-acc0-8aecba961984@acf5.org
+DTSTAMP:20230227T171116Z
+UID:bc0b7e15-20c9-4d72-ab5f-e0ff010b22a5@bc0b.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Vorlesung
-DTSTART:20230613T060000Z
-DTEND:20230613T073000Z
-DTSTAMP:20230227T161419Z
-UID:eb2cf44c-f1a7-4442-aaa5-d6687cc7da80@eb2c.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
+ zt aktualisiert: 2023-02-27 18:11:16
 LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathematik II SD Übung
-DTSTART:20230620T120000Z
-DTEND:20230620T133000Z
-DTSTAMP:20230227T161419Z
-UID:489b8954-8290-4f93-b8ed-7c34a60453d1@489b.org
+DTSTART:20230523T120000Z
+DTEND:20230523T133000Z
+DTSTAMP:20230227T171116Z
+UID:5d4f7635-4d96-4519-9efc-c1b98f48c563@5d4f.org
 DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
+  aktualisiert: 2023-02-27 18:11:16
 LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Vorlesung
+DTSTART:20230523T093000Z
+DTEND:20230523T110000Z
+DTSTAMP:20230227T171116Z
+UID:3ff0b0d6-8bea-460d-9294-cf555394ef6e@3ff0.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathematik II SD Übung
-DTSTART:20230425T120000Z
-DTEND:20230425T133000Z
-DTSTAMP:20230227T161419Z
-UID:10b5466d-b2ed-4566-94f8-4e9d836de144@10b5.org
+DTSTART:20230502T120000Z
+DTEND:20230502T133000Z
+DTSTAMP:20230227T171116Z
+UID:e506a2a6-5519-4d2a-ae59-b9d14ce04113@e506.org
 DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
+  aktualisiert: 2023-02-27 18:11:16
 LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230504T120000Z
-DTEND:20230504T133000Z
-DTSTAMP:20230227T161419Z
-UID:a06b2366-792f-40d0-951c-33b5c3bdbcfa@a06b.org
-DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
+SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
+DTSTART:20230323T084500Z
+DTEND:20230323T101500Z
+DTSTAMP:20230227T171116Z
+UID:ca8442c4-e0eb-4d18-adfd-266a26a630d4@ca84.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
 LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Übung
-DTSTART:20230522T074500Z
-DTEND:20230522T091500Z
-DTSTAMP:20230227T161419Z
-UID:569837ef-026d-4e40-a5ed-b019573710b7@5698.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Übung
-DTSTART:20230327T074500Z
-DTEND:20230327T091500Z
-DTSTAMP:20230227T161419Z
-UID:6caab133-6346-421e-a2c7-42ff3af235fc@6caa.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
+SUMMARY:Mathematik II SD Übung
+DTSTART:20230404T120000Z
+DTEND:20230404T133000Z
+DTSTAMP:20230227T171116Z
+UID:df29c134-f32e-4fc8-a15f-1b3d385d2a06@df29.org
+DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
+  aktualisiert: 2023-02-27 18:11:16
+LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230614T074500Z
-DTEND:20230614T091500Z
-DTSTAMP:20230227T161419Z
-UID:0bf2f995-bc04-44f8-a182-6e6be0eb65cd@0bf2.org
+DTSTART:20230322T084500Z
+DTEND:20230322T101500Z
+DTSTAMP:20230227T171116Z
+UID:c533b771-3fbd-4d0f-9845-2236841a4d39@c533.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
+ zt aktualisiert: 2023-02-27 18:11:16
 LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230510T093000Z
-DTEND:20230510T110000Z
-DTSTAMP:20230227T161419Z
-UID:f8d9cd6f-9c27-490a-8ba7-1fcc29f6d1c8@f8d9.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
+SUMMARY:Theoretische Informatik SD Übung
+DTSTART:20230620T134500Z
+DTEND:20230620T151500Z
+DTSTAMP:20230227T171116Z
+UID:a727e23c-8944-46be-a263-f612b0128ae1@a727.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
 LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
  105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Übung
-DTSTART:20230626T093000Z
-DTEND:20230626T110000Z
-DTSTAMP:20230227T161419Z
-UID:040dcf1d-c395-4c8d-bfda-d34d9481d4bf@040d.org
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230419T093000Z
+DTEND:20230419T110000Z
+DTSTAMP:20230227T171116Z
+UID:eddb55b5-51b1-4d57-99e0-4fa6470ddfb4@eddb.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Übung
+DTSTART:20230418T120000Z
+DTEND:20230418T133000Z
+DTSTAMP:20230227T171116Z
+UID:f54cb087-70c8-48bc-b316-53d9965d06f6@f54c.org
+DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
+  aktualisiert: 2023-02-27 18:11:16
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Vorlesung
+DTSTART:20230607T074500Z
+DTEND:20230607T091500Z
+DTSTAMP:20230227T171116Z
+UID:aae97516-a8af-48b9-ad8f-3aa855b57192@aae9.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Übung
+DTSTART:20230612T074500Z
+DTEND:20230612T091500Z
+DTSTAMP:20230227T171116Z
+UID:653075d1-99c0-4c7f-9e3e-d092d88a8f89@6530.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
+ tualisiert: 2023-02-27 18:11:16
 LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
  105
 END:VEVENT
@@ -1442,236 +232,73 @@ BEGIN:VEVENT
 SUMMARY:Fachsprache Englisch SD Vorlesung
 DTSTART:20230629T120000Z
 DTEND:20230629T133000Z
-DTSTAMP:20230227T161419Z
-UID:b275507b-0174-46b4-b26d-e5a0d0140509@b275.org
+DTSTAMP:20230227T171116Z
+UID:bb067c74-184f-4bb9-b2d0-ef5787af6e62@bb06.org
 DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
+ ert: 2023-02-27 18:11:16
 LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mathematik II SD Vorlesung
-DTSTART:20230321T070000Z
-DTEND:20230321T083000Z
-DTSTAMP:20230227T161419Z
-UID:8eab1b96-4b06-4635-905f-439b68d3e3d5@8eab.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
- Zuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230503T074500Z
-DTEND:20230503T091500Z
-DTSTAMP:20230227T161419Z
-UID:ec4a5d59-27c2-48de-80ef-d8d4ddb2760a@ec4a.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Übung
-DTSTART:20230418T120000Z
-DTEND:20230418T133000Z
-DTSTAMP:20230227T161419Z
-UID:7b8325d8-335b-4ce5-b0ad-e9d66cb64386@7b83.org
-DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Vorlesung
-DTSTART:20230404T093000Z
-DTEND:20230404T110000Z
-DTSTAMP:20230227T161419Z
-UID:eca47c22-4859-4c28-81e8-96ca3f5f70e9@eca4.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Vorlesung
-DTSTART:20230321T103000Z
-DTEND:20230321T120000Z
-DTSTAMP:20230227T161419Z
-UID:a77231f6-9e4e-4fd5-a32e-0d1335448366@a772.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mathematik II SD Übung
-DTSTART:20230516T120000Z
-DTEND:20230516T133000Z
-DTSTAMP:20230227T161419Z
-UID:e0d58470-472c-45ed-a3e4-434d20f3f26e@e0d5.org
-DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
-LOCATION:Seminarraum C3-107
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Übung
-DTSTART:20230320T084500Z
-DTEND:20230320T101500Z
-DTSTAMP:20230227T161419Z
-UID:cf574cf4-f146-47c2-9e80-eafc85d383ae@cf57.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
+SUMMARY:Theoretische Informatik SD Übung
+DTSTART:20230321T144500Z
+DTEND:20230321T161500Z
+DTSTAMP:20230227T171116Z
+UID:e0427481-799d-462f-a55d-addb951fd4ee@e042.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
 LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
  105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230322T103000Z
-DTEND:20230322T120000Z
-DTSTAMP:20230227T161419Z
-UID:e80e005b-c985-4f89-b29a-85be99a1f4cd@e80e.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230502T074500Z
-DTEND:20230502T091500Z
-DTSTAMP:20230227T161419Z
-UID:f19c92fe-7f69-482e-ae86-72f20c10e819@f19c.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
+SUMMARY:Mathematik II SD Übung
+DTSTART:20230620T120000Z
+DTEND:20230620T133000Z
+DTSTAMP:20230227T171116Z
+UID:82aeaedf-e8a9-4c5b-b43f-20a0ad4785f7@82ae.org
+DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
+  aktualisiert: 2023-02-27 18:11:16
+LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programmiertechnik II SD Übung
-DTSTART:20230320T103000Z
-DTEND:20230320T120000Z
-DTSTAMP:20230227T161419Z
-UID:033044a2-ed20-4fbf-930f-e6fb423331b7@0330.org
+DTSTART:20230417T093000Z
+DTEND:20230417T110000Z
+DTSTAMP:20230227T171116Z
+UID:16223f87-988a-49fc-8251-b060fbe30a7a@1622.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
+ tualisiert: 2023-02-27 18:11:16
 LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
  105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230613T074500Z
-DTEND:20230613T091500Z
-DTSTAMP:20230227T161419Z
-UID:8d4f9be4-87e3-48cb-a6c3-ec98b7cca4ca@8d4f.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230510T074500Z
-DTEND:20230510T091500Z
-DTSTAMP:20230227T161419Z
-UID:3fe39398-5a9c-4267-8eba-8041341669fb@3fe3.org
+DTSTART:20230405T074500Z
+DTEND:20230405T091500Z
+DTSTAMP:20230227T171116Z
+UID:cc13d6f9-67f3-4e5a-885d-b54eb6b9612a@cc13.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
+ zt aktualisiert: 2023-02-27 18:11:16
 LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230425T134500Z
-DTEND:20230425T151500Z
-DTSTAMP:20230227T161419Z
-UID:10cb56fb-8478-4463-8d15-b97884c33212@10cb.org
+DTSTART:20230627T134500Z
+DTEND:20230627T151500Z
+DTSTAMP:20230227T171116Z
+UID:9b34d062-39d0-4efb-94f2-c89b99fea745@9b34.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
+ alisiert: 2023-02-27 18:11:16
 LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
  105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230509T074500Z
-DTEND:20230509T091500Z
-DTSTAMP:20230227T161419Z
-UID:b274cdfd-ebee-412c-811d-7e762d61d7c0@b274.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Übung
-DTSTART:20230605T074500Z
-DTEND:20230605T091500Z
-DTSTAMP:20230227T161419Z
-UID:2944eb98-af27-438d-8378-38df9507e44b@2944.org
+SUMMARY:Programmiertechnik II SD Übung
+DTSTART:20230522T093000Z
+DTEND:20230522T110000Z
+DTSTAMP:20230227T171116Z
+UID:e2540b8d-8a6f-480a-90b0-0596a2868814@e254.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmiertechnik II SD Vorlesung
-DTSTART:20230516T074500Z
-DTEND:20230516T091500Z
-DTSTAMP:20230227T161419Z
-UID:c1e1c98e-cf6b-4315-9761-2d90b04c9fae@c1e1.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
- etzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230704T134500Z
-DTEND:20230704T151500Z
-DTSTAMP:20230227T161419Z
-UID:ec1ada2d-890c-41b7-be05-9c5d8035571f@ec1a.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230330T074500Z
-DTEND:20230330T091500Z
-DTSTAMP:20230227T161419Z
-UID:1391b598-e21f-427a-9a78-f0d0ccba5851@1391.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230419T074500Z
-DTEND:20230419T091500Z
-DTSTAMP:20230227T161419Z
-UID:a60ef0e7-605f-44d9-bb87-2fa4a6d80537@a60e.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230517T074500Z
-DTEND:20230517T091500Z
-DTSTAMP:20230227T161419Z
-UID:52eed351-c88e-4254-878b-854f9d7f71a8@52ee.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230420T093000Z
-DTEND:20230420T110000Z
-DTSTAMP:20230227T161419Z
-UID:69db0873-7764-404b-9a53-660c95abde32@69db.org
-DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Datenbanken SD Übung
-DTSTART:20230412T093000Z
-DTEND:20230412T110000Z
-DTSTAMP:20230227T161419Z
-UID:f3a90ea2-6c8e-443b-8854-2f57fdbc17eb@f3a9.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
+ tualisiert: 2023-02-27 18:11:16
 LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
  105
 END:VEVENT
@@ -1679,103 +306,1476 @@ BEGIN:VEVENT
 SUMMARY:Programmiertechnik II SD Übung
 DTSTART:20230508T093000Z
 DTEND:20230508T110000Z
-DTSTAMP:20230227T161419Z
-UID:14e13d6e-c33f-4583-b33f-4048fbe66a6b@14e1.org
+DTSTAMP:20230227T171116Z
+UID:65f87a56-4c1b-416b-b082-8b4063f2bcd8@65f8.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
+ tualisiert: 2023-02-27 18:11:16
 LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
  105
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mathematik II SD Übung
-DTSTART:20230502T120000Z
-DTEND:20230502T133000Z
-DTSTAMP:20230227T161419Z
-UID:870a61a4-4358-4e1a-b392-50c9069a3c97@870a.org
+DTSTART:20230328T120000Z
+DTEND:20230328T133000Z
+DTSTAMP:20230227T171116Z
+UID:a626724e-43d8-42af-9d33-0cebe56b5c2b@a626.org
 DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
-  aktualisiert: 2023-02-27 17:14:19
+  aktualisiert: 2023-02-27 18:11:16
 LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Datenbanken SD Vorlesung
-DTSTART:20230607T074500Z
-DTEND:20230607T091500Z
-DTSTAMP:20230227T161419Z
-UID:d1c90afd-5ed6-4d8a-853a-747a6b462e74@d1c9.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230511T120000Z
-DTEND:20230511T133000Z
-DTSTAMP:20230227T161419Z
-UID:4291db03-0fb1-4510-baca-215af61992a3@4291.org
-DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
- ert: 2023-02-27 17:14:19
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theoretische Informatik SD Übung
-DTSTART:20230523T134500Z
-DTEND:20230523T151500Z
-DTSTAMP:20230227T161419Z
-UID:62716fbb-8876-4065-9c6d-e16b51ff2056@6271.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-02-27 17:14:19
-LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
- 105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fachsprache Englisch SD Vorlesung
-DTSTART:20230622T093000Z
-DTEND:20230622T110000Z
-DTSTAMP:20230227T161419Z
-UID:00f4b035-36b1-4aaf-a7d1-418305ab3667@00f4.org
+DTSTART:20230706T093000Z
+DTEND:20230706T110000Z
+DTSTAMP:20230227T171116Z
+UID:a5b8a974-6878-47ac-9495-ba1b1adbdfe9@a5b8.org
 DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
- t: 2023-02-27 17:14:19
+ t: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Übung
+DTSTART:20230704T120000Z
+DTEND:20230704T133000Z
+DTSTAMP:20230227T171116Z
+UID:37a2b949-8cdb-4b19-ab2b-4e41a1a5daf0@37a2.org
+DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
+  aktualisiert: 2023-02-27 18:11:16
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230418T074500Z
+DTEND:20230418T091500Z
+DTSTAMP:20230227T171116Z
+UID:441c69a1-18fb-4470-9294-361744c7edb7@441c.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Vorlesung
+DTSTART:20230621T074500Z
+DTEND:20230621T091500Z
+DTSTAMP:20230227T171116Z
+UID:5ce35f7a-1db8-4c15-bd29-4a4324693a91@5ce3.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Vorlesung
+DTSTART:20230517T074500Z
+DTEND:20230517T091500Z
+DTSTAMP:20230227T171116Z
+UID:5363ded5-b3bc-4005-ab90-44881b35ef3d@5363.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230316T130000Z
+DTEND:20230316T143000Z
+DTSTAMP:20230227T171116Z
+UID:99f37cf7-1c6d-4980-a219-096fb33afbfa@99f3.org
+DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
+ ert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Vorlesung
+DTSTART:20230404T093000Z
+DTEND:20230404T110000Z
+DTSTAMP:20230227T171116Z
+UID:93173f70-2e38-4695-a2bf-88132c32b8f1@9317.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
+DTSTART:20230330T074500Z
+DTEND:20230330T091500Z
+DTSTAMP:20230227T171116Z
+UID:ff2c2644-ee53-4d44-882f-c23f6a5f52cc@ff2c.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230413T093000Z
+DTEND:20230413T110000Z
+DTSTAMP:20230227T171116Z
+UID:6f252dd2-cc98-4078-8d40-b21ad0951b41@6f25.org
+DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
+ t: 2023-02-27 18:11:16
 LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grundlagen des Softwareengineering SD Übung
 DTSTART:20230515T074500Z
 DTEND:20230515T091500Z
-DTSTAMP:20230227T161419Z
-UID:68c85710-842d-4b86-a2c7-9faa671c8401@68c8.org
+DTSTAMP:20230227T171116Z
+UID:c7073985-d6c6-4ce6-9e66-d47e9e817320@c707.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
- tualisiert: 2023-02-27 17:14:19
+ tualisiert: 2023-02-27 18:11:16
 LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
  105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230330T120000Z
+DTEND:20230330T133000Z
+DTSTAMP:20230227T171116Z
+UID:e3dde4b8-df9f-467b-9fe8-43db2075eb43@e3dd.org
+DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
+ ert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
+DTSTART:20230316T084500Z
+DTEND:20230316T101500Z
+DTSTAMP:20230227T171116Z
+UID:8b4c3134-cbb0-4644-8599-83de7df71daa@8b4c.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Übung
+DTSTART:20230320T103000Z
+DTEND:20230320T120000Z
+DTSTAMP:20230227T171116Z
+UID:f4522ceb-64a2-43da-833b-cd24bbedcff1@f452.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Übung
+DTSTART:20230516T134500Z
+DTEND:20230516T151500Z
+DTSTAMP:20230227T171116Z
+UID:8cff9752-2ab6-4d00-bb32-4755df7931fb@8cff.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
+DTSTART:20230615T074500Z
+DTEND:20230615T091500Z
+DTSTAMP:20230227T171116Z
+UID:920cbbc7-a425-46d0-91a7-d5203ec8c43d@920c.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Vorlesung
+DTSTART:20230412T074500Z
+DTEND:20230412T091500Z
+DTSTAMP:20230227T171116Z
+UID:509b444c-56ed-40aa-8e46-626362826e52@509b.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230322T103000Z
+DTEND:20230322T120000Z
+DTSTAMP:20230227T171116Z
+UID:65d311a4-d19e-4898-b849-6b642b2caec5@65d3.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230601T093000Z
+DTEND:20230601T110000Z
+DTSTAMP:20230227T171116Z
+UID:5f8a38a9-e3e7-4486-a779-74ab321e581f@5f8a.org
+DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
+ t: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230615T120000Z
+DTEND:20230615T133000Z
+DTSTAMP:20230227T171116Z
+UID:c776daae-5bec-48db-890d-b69817dea16c@c776.org
+DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
+ ert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230706T120000Z
+DTEND:20230706T133000Z
+DTSTAMP:20230227T171116Z
+UID:6218de34-a918-4160-9493-0f9fe6dab36d@6218.org
+DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
+ ert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230613T074500Z
+DTEND:20230613T091500Z
+DTSTAMP:20230227T171116Z
+UID:09b85d56-8c3a-4b1e-a585-164cf02978de@09b8.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Übung
+DTSTART:20230613T120000Z
+DTEND:20230613T133000Z
+DTSTAMP:20230227T171116Z
+UID:5d7b416d-717f-40c1-93d6-be8e0388f634@5d7b.org
+DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
+  aktualisiert: 2023-02-27 18:11:16
+LOCATION:Seminarraum C3-107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Datenbanken SD Vorlesung
 DTSTART:20230315T084500Z
 DTEND:20230315T101500Z
-DTSTAMP:20230227T161419Z
-UID:fd202e56-3a73-48b4-a732-f88c8e25e051@fd20.org
+DTSTAMP:20230227T171116Z
+UID:72356b81-092c-49ed-b0dc-4c4b3be3eac9@7235.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
+ zt aktualisiert: 2023-02-27 18:11:16
 LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230316T103000Z
+DTEND:20230316T120000Z
+DTSTAMP:20230227T171116Z
+UID:e298e38b-1cfe-49f4-95c4-c0ab9d25b5af@e298.org
+DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
+ t: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Übung
+DTSTART:20230627T120000Z
+DTEND:20230627T133000Z
+DTSTAMP:20230227T171116Z
+UID:b96085da-3f67-465c-a129-cc6dcdfde744@b960.org
+DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
+  aktualisiert: 2023-02-27 18:11:16
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230405T093000Z
+DTEND:20230405T110000Z
+DTSTAMP:20230227T171116Z
+UID:dcdfd047-06ba-4930-9633-f2497d471d85@dcdf.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230413T120000Z
+DTEND:20230413T133000Z
+DTSTAMP:20230227T171116Z
+UID:971ad596-433f-4d55-a70d-f83f91c5044f@971a.org
+DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
+ ert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230615T093000Z
+DTEND:20230615T110000Z
+DTSTAMP:20230227T171116Z
+UID:c94d49ec-e764-4195-a485-2d3e413569e2@c94d.org
+DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
+ t: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Vorlesung
+DTSTART:20230502T060000Z
+DTEND:20230502T073000Z
+DTSTAMP:20230227T171116Z
+UID:76e5b281-7f96-4e3f-b87b-21b27ed793ee@76e5.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230426T093000Z
+DTEND:20230426T110000Z
+DTSTAMP:20230227T171116Z
+UID:d94b4812-1b84-4bd1-b14f-e408628bdc1e@d94b.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230516T074500Z
+DTEND:20230516T091500Z
+DTSTAMP:20230227T171116Z
+UID:43d9e9a4-9d78-48e4-808d-955e855788f6@43d9.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230628T093000Z
+DTEND:20230628T110000Z
+DTSTAMP:20230227T171116Z
+UID:b980cc1e-2e53-466d-a8ba-f2f41e1f6f22@b980.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Vorlesung
+DTSTART:20230524T074500Z
+DTEND:20230524T091500Z
+DTSTAMP:20230227T171116Z
+UID:91613126-bd10-4935-9313-d811f878e988@9161.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Vorlesung
+DTSTART:20230404T060000Z
+DTEND:20230404T073000Z
+DTSTAMP:20230227T171116Z
+UID:432fdf2f-e1d0-45a1-8802-9406c9a2546a@432f.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Vorlesung
+DTSTART:20230516T060000Z
+DTEND:20230516T073000Z
+DTSTAMP:20230227T171116Z
+UID:64d0f15c-40de-4279-9c95-088fa8e8e6c6@64d0.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Übung
+DTSTART:20230327T093000Z
+DTEND:20230327T110000Z
+DTSTAMP:20230227T171116Z
+UID:4b8f463b-2235-492d-b2e8-bee1473c8a0b@4b8f.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Vorlesung
+DTSTART:20230704T060000Z
+DTEND:20230704T073000Z
+DTSTAMP:20230227T171116Z
+UID:6b1a489b-f8a4-4194-a98e-b7f318b598a0@6b1a.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Vorlesung
+DTSTART:20230425T060000Z
+DTEND:20230425T073000Z
+DTSTAMP:20230227T171116Z
+UID:8a5f080e-c0e0-413a-86f9-c100e5315202@8a5f.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
-DTSTART:20230323T084500Z
-DTEND:20230323T101500Z
-DTSTAMP:20230227T161419Z
-UID:c050a79a-41da-40a7-9a54-7b8da2c65a30@c050.org
+DTSTART:20230511T074500Z
+DTEND:20230511T091500Z
+DTSTAMP:20230227T171116Z
+UID:1b0e2555-59a0-4a16-8607-227ac9805ef4@1b0e.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
- \nZuletzt aktualisiert: 2023-02-27 17:14:19
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230328T074500Z
+DTEND:20230328T091500Z
+DTSTAMP:20230227T171116Z
+UID:249013bb-073d-4a8e-aa25-9773bad055a9@2490.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Übung
+DTSTART:20230320T084500Z
+DTEND:20230320T101500Z
+DTSTAMP:20230227T171116Z
+UID:43ad7d96-4cde-4c52-9d58-6ff1413e5403@43ad.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Vorlesung
+DTSTART:20230620T093000Z
+DTEND:20230620T110000Z
+DTSTAMP:20230227T171116Z
+UID:4c5cd1ea-26de-42a5-acca-7512be5dcdf8@4c5c.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Vorlesung
+DTSTART:20230614T074500Z
+DTEND:20230614T091500Z
+DTSTAMP:20230227T171116Z
+UID:cf3e1fb5-e520-4fe6-bae8-2d68bab904fd@cf3e.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230620T074500Z
+DTEND:20230620T091500Z
+DTSTAMP:20230227T171116Z
+UID:f6f2a671-075d-480e-add4-c4ac2d6bddf3@f6f2.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Vorlesung
+DTSTART:20230705T074500Z
+DTEND:20230705T091500Z
+DTSTAMP:20230227T171116Z
+UID:82dceef3-4854-414d-9be2-dfee8eace9c1@82dc.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230504T093000Z
+DTEND:20230504T110000Z
+DTSTAMP:20230227T171116Z
+UID:c5dfe79b-1914-4b1b-b274-87ec62de36fd@c5df.org
+DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
+ t: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230404T074500Z
+DTEND:20230404T091500Z
+DTSTAMP:20230227T171116Z
+UID:bb55fc54-c99f-42fd-8c99-dc8dd536cedb@bb55.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230517T093000Z
+DTEND:20230517T110000Z
+DTSTAMP:20230227T171116Z
+UID:36bb10b3-2a8f-4657-9646-81897b227e2c@36bb.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Übung
+DTSTART:20230418T134500Z
+DTEND:20230418T151500Z
+DTSTAMP:20230227T171116Z
+UID:749ada3e-9e22-4d9f-8ff9-e184312d3de8@749a.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Vorlesung
+DTSTART:20230426T074500Z
+DTEND:20230426T091500Z
+DTSTAMP:20230227T171116Z
+UID:1ca7f8a0-d956-4c5e-9506-d4fd129780b4@1ca7.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230525T120000Z
+DTEND:20230525T133000Z
+DTSTAMP:20230227T171116Z
+UID:9058f2b5-8efe-4338-8943-57af7ef7e638@9058.org
+DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
+ ert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Übung
+DTSTART:20230613T134500Z
+DTEND:20230613T151500Z
+DTSTAMP:20230227T171116Z
+UID:c3725eaa-5ff3-401b-b58b-42f6e8df99c4@c372.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230420T093000Z
+DTEND:20230420T110000Z
+DTSTAMP:20230227T171116Z
+UID:0e2d2f0d-4dff-49e8-a77b-4070baf2abf4@0e2d.org
+DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
+ t: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Vorlesung
+DTSTART:20230509T060000Z
+DTEND:20230509T073000Z
+DTSTAMP:20230227T171116Z
+UID:6520e3bb-2aed-41c1-a991-005f9688668f@6520.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Übung
+DTSTART:20230619T093000Z
+DTEND:20230619T110000Z
+DTSTAMP:20230227T171116Z
+UID:b160c935-d2c9-47f1-aeaf-8eb26e365373@b160.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230321T084500Z
+DTEND:20230321T101500Z
+DTSTAMP:20230227T171116Z
+UID:ba343d4a-2684-45ea-ad8d-0265c69dfee1@ba34.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Übung
+DTSTART:20230516T120000Z
+DTEND:20230516T133000Z
+DTSTAMP:20230227T171116Z
+UID:f1ed2e61-4e86-426a-9c7c-b902da6dcc9a@f1ed.org
+DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
+  aktualisiert: 2023-02-27 18:11:16
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Übung
+DTSTART:20230605T074500Z
+DTEND:20230605T091500Z
+DTSTAMP:20230227T171116Z
+UID:fc479672-4973-4fb7-89a1-d2c0490593eb@fc47.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Übung
+DTSTART:20230612T093000Z
+DTEND:20230612T110000Z
+DTSTAMP:20230227T171116Z
+UID:39fa4a3a-b75a-4dd4-8ee6-2a34bb4265fd@39fa.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
+DTSTART:20230504T074500Z
+DTEND:20230504T091500Z
+DTSTAMP:20230227T171116Z
+UID:3e6fc583-4321-428b-a616-60e22878a7a5@3e6f.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230524T093000Z
+DTEND:20230524T110000Z
+DTSTAMP:20230227T171116Z
+UID:d372ed6f-3363-4f2c-92b5-ddb552f5b5df@d372.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Vorlesung
+DTSTART:20230523T060000Z
+DTEND:20230523T073000Z
+DTSTAMP:20230227T171116Z
+UID:db1600c4-b379-46dc-b9b9-51f0134bf26f@db16.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230614T093000Z
+DTEND:20230614T110000Z
+DTSTAMP:20230227T171116Z
+UID:d92233f0-08e4-4b2a-9507-89824d202c0d@d922.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Vorlesung
+DTSTART:20230419T074500Z
+DTEND:20230419T091500Z
+DTSTAMP:20230227T171116Z
+UID:af9dfece-ca4d-4349-9987-ca7f979fa6da@af9d.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230329T093000Z
+DTEND:20230329T110000Z
+DTSTAMP:20230227T171116Z
+UID:6a1c9cf0-1cb9-4229-8181-cbd1ab9eddd1@6a1c.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Übung
+DTSTART:20230425T134500Z
+DTEND:20230425T151500Z
+DTSTAMP:20230227T171116Z
+UID:9ba819f6-c4c1-4a48-86b2-9aa4215482f0@9ba8.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230510T093000Z
+DTEND:20230510T110000Z
+DTSTAMP:20230227T171116Z
+UID:2520f64c-58d0-4200-aa74-243773c54ac2@2520.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230606T074500Z
+DTEND:20230606T091500Z
+DTSTAMP:20230227T171116Z
+UID:be89eae1-f105-43fc-8783-0af48fe98e90@be89.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230427T093000Z
+DTEND:20230427T110000Z
+DTSTAMP:20230227T171116Z
+UID:cfaa54ad-f3d8-45f2-aa2c-52a5148cfcc6@cfaa.org
+DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
+ t: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Übung
+DTSTART:20230619T074500Z
+DTEND:20230619T091500Z
+DTSTAMP:20230227T171116Z
+UID:c41ca3cd-7b68-4040-a5ae-c4f0eabd34d8@c41c.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Übung
+DTSTART:20230703T074500Z
+DTEND:20230703T091500Z
+DTSTAMP:20230227T171116Z
+UID:e74335e5-62fc-40d2-9473-9865b9367cfc@e743.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230601T120000Z
+DTEND:20230601T133000Z
+DTSTAMP:20230227T171116Z
+UID:2ef1af9b-2f99-4479-9194-45f218914eb1@2ef1.org
+DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
+ ert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Übung
+DTSTART:20230403T093000Z
+DTEND:20230403T110000Z
+DTSTAMP:20230227T171116Z
+UID:47e723d3-c476-4b51-be79-0e5dfb8ae4d6@47e7.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230425T074500Z
+DTEND:20230425T091500Z
+DTSTAMP:20230227T171116Z
+UID:504995de-73c2-40e6-a146-e1e8457c2d14@5049.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Übung
+DTSTART:20230522T074500Z
+DTEND:20230522T091500Z
+DTSTAMP:20230227T171116Z
+UID:afb9cc91-75f8-4dea-b35d-d160aa098e12@afb9.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Vorlesung
+DTSTART:20230613T060000Z
+DTEND:20230613T073000Z
+DTSTAMP:20230227T171116Z
+UID:05100429-d491-4288-b306-2e34eb32bdfe@0510.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Vorlesung
+DTSTART:20230509T093000Z
+DTEND:20230509T110000Z
+DTSTAMP:20230227T171116Z
+UID:04403a4e-26a9-4755-a87a-17bf613e4e06@0440.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230503T093000Z
+DTEND:20230503T110000Z
+DTSTAMP:20230227T171116Z
+UID:36c80b78-9d31-47f6-887e-b14efd3db706@36c8.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Übung
+DTSTART:20230703T093000Z
+DTEND:20230703T110000Z
+DTSTAMP:20230227T171116Z
+UID:1e703587-2216-4152-8e57-e324a0f706c1@1e70.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230525T093000Z
+DTEND:20230525T110000Z
+DTSTAMP:20230227T171116Z
+UID:fc0182ef-f105-4cb6-a4d4-33dfc39160e1@fc01.org
+DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
+ t: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230622T093000Z
+DTEND:20230622T110000Z
+DTSTAMP:20230227T171116Z
+UID:ed06df06-823f-4c64-bb5e-f1cfc516cd41@ed06.org
+DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
+ t: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230330T093000Z
+DTEND:20230330T110000Z
+DTSTAMP:20230227T171116Z
+UID:34089b54-02f1-4d66-b3fd-c29d498f3195@3408.org
+DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
+ t: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Vorlesung
+DTSTART:20230418T093000Z
+DTEND:20230418T110000Z
+DTSTAMP:20230227T171116Z
+UID:349b6ce9-3f67-40f8-bd00-a52331a99ca1@349b.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Übung
+DTSTART:20230509T134500Z
+DTEND:20230509T151500Z
+DTSTAMP:20230227T171116Z
+UID:24c8c289-17f9-4a02-be37-cd6ff6b0d043@24c8.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
+DTSTART:20230413T074500Z
+DTEND:20230413T091500Z
+DTSTAMP:20230227T171116Z
+UID:47e7ceb9-79f1-4afe-b8cb-4da8e88ed001@47e7.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Vorlesung
+DTSTART:20230627T093000Z
+DTEND:20230627T110000Z
+DTSTAMP:20230227T171116Z
+UID:92b9e955-4441-4496-abf1-c87be118b3e6@92b9.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230511T120000Z
+DTEND:20230511T133000Z
+DTSTAMP:20230227T171116Z
+UID:a1fb8957-efa0-4e5e-9bd9-d574dc88b632@a1fb.org
+DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
+ ert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Übung
+DTSTART:20230626T093000Z
+DTEND:20230626T110000Z
+DTSTAMP:20230227T171116Z
+UID:7b8dba60-237c-4548-9d3a-677eb57ecee1@7b8d.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Übung
+DTSTART:20230424T074500Z
+DTEND:20230424T091500Z
+DTSTAMP:20230227T171116Z
+UID:433a1657-ad41-421d-a9b9-37309a6f4d78@433a.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230323T103000Z
+DTEND:20230323T120000Z
+DTSTAMP:20230227T171116Z
+UID:6aee3731-a8a6-438a-8dac-00ffe7786756@6aee.org
+DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
+ t: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Vorlesung
+DTSTART:20230620T060000Z
+DTEND:20230620T073000Z
+DTSTAMP:20230227T171116Z
+UID:3c2e6ffe-6894-4106-85aa-27c4b7520f99@3c2e.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
+DTSTART:20230706T074500Z
+DTEND:20230706T091500Z
+DTSTAMP:20230227T171116Z
+UID:a2df049c-aba2-414b-8f00-60e9f0cb8b42@a2df.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Übung
+DTSTART:20230424T093000Z
+DTEND:20230424T110000Z
+DTSTAMP:20230227T171116Z
+UID:5b097e83-480e-47c1-ae1e-1910e8685b04@5b09.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Übung
+DTSTART:20230403T074500Z
+DTEND:20230403T091500Z
+DTSTAMP:20230227T171116Z
+UID:3d505fc6-ee9d-488d-93d3-cb0ae71849bc@3d50.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230509T074500Z
+DTEND:20230509T091500Z
+DTSTAMP:20230227T171116Z
+UID:1cc3855b-d72f-49e3-8b3b-367ab0d2e492@1cc3.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230629T093000Z
+DTEND:20230629T110000Z
+DTSTAMP:20230227T171116Z
+UID:95eafd0c-045c-4fd9-93e9-562ede2a6133@95ea.org
+DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
+ t: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Vorlesung
+DTSTART:20230503T074500Z
+DTEND:20230503T091500Z
+DTSTAMP:20230227T171116Z
+UID:cf52a38d-dc1b-4423-b86e-a1f2b30f147e@cf52.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Übung
+DTSTART:20230327T074500Z
+DTEND:20230327T091500Z
+DTSTAMP:20230227T171116Z
+UID:58796fdd-ff4d-49f7-a8ff-96ed31c49940@5879.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230412T093000Z
+DTEND:20230412T110000Z
+DTSTAMP:20230227T171116Z
+UID:97aaec18-890c-41b2-8c63-af3ba963ae92@97aa.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230523T074500Z
+DTEND:20230523T091500Z
+DTSTAMP:20230227T171116Z
+UID:81b6c2eb-43ca-455e-8ecf-9cf134f9751b@81b6.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Vorlesung
+DTSTART:20230418T060000Z
+DTEND:20230418T073000Z
+DTSTAMP:20230227T171116Z
+UID:04e88f74-3975-4264-946d-9f2243046a1d@04e8.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Übung
+DTSTART:20230502T134500Z
+DTEND:20230502T151500Z
+DTSTAMP:20230227T171116Z
+UID:8441b062-d4e6-4615-830c-149a6653fec5@8441.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230502T074500Z
+DTEND:20230502T091500Z
+DTSTAMP:20230227T171116Z
+UID:bac712cb-c533-4f32-a929-0c8a0df5ca64@bac7.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Übung
+DTSTART:20230523T134500Z
+DTEND:20230523T151500Z
+DTSTAMP:20230227T171116Z
+UID:54f6f0be-d025-402d-afc9-c4d19458e9ca@54f6.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Vorlesung
+DTSTART:20230531T074500Z
+DTEND:20230531T091500Z
+DTSTAMP:20230227T171116Z
+UID:5c672dc9-e868-4ea0-98d9-1660fa29ccde@5c67.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Vorlesung
+DTSTART:20230606T093000Z
+DTEND:20230606T110000Z
+DTSTAMP:20230227T171116Z
+UID:b501670e-9739-4fd9-8c81-7561af54ab83@b501.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Vorlesung
+DTSTART:20230321T103000Z
+DTEND:20230321T120000Z
+DTSTAMP:20230227T171116Z
+UID:bca43b2f-6f78-4e90-9efe-8bcb83b31681@bca4.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Vorlesung
+DTSTART:20230510T074500Z
+DTEND:20230510T091500Z
+DTSTAMP:20230227T171116Z
+UID:193aaed8-5b37-4165-8399-f44c2b427a3c@193a.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Vorlesung
+DTSTART:20230606T060000Z
+DTEND:20230606T073000Z
+DTSTAMP:20230227T171116Z
+UID:bea4d9d7-e4fe-4053-bc61-f1e2efb06cc9@bea4.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230607T093000Z
+DTEND:20230607T110000Z
+DTSTAMP:20230227T171116Z
+UID:cf5af4de-9343-412a-8824-978b3e51c15b@cf5a.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230504T120000Z
+DTEND:20230504T133000Z
+DTSTAMP:20230227T171116Z
+UID:ff61ebb6-0972-422a-ad8b-da9f8709d3ed@ff61.org
+DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
+ ert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230511T093000Z
+DTEND:20230511T110000Z
+DTSTAMP:20230227T171116Z
+UID:e100d9b5-56ae-4e87-bc3d-e513f11807c3@e100.org
+DESCRIPTION:Vorlesung\nDozent: Grigor\nGruppen: 1\n\n\nZuletzt aktualisier
+ t: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230704T074500Z
+DTEND:20230704T091500Z
+DTSTAMP:20230227T171116Z
+UID:ad2356a2-5869-4531-af72-60cd127a6eb1@ad23.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Vorlesung
+DTSTART:20230321T070000Z
+DTEND:20230321T083000Z
+DTSTAMP:20230227T171116Z
+UID:fa00cde3-15b6-4630-a83a-d5b5acc68c49@fa00.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Übung
+DTSTART:20230404T134500Z
+DTEND:20230404T151500Z
+DTSTAMP:20230227T171116Z
+UID:6d43b1b5-f49b-4afb-9225-4c1fce7c1698@6d43.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Übung
+DTSTART:20230626T074500Z
+DTEND:20230626T091500Z
+DTSTAMP:20230227T171116Z
+UID:18812ce9-20e1-47bd-ba09-a40ae476a5d1@1881.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Übung
+DTSTART:20230328T134500Z
+DTEND:20230328T151500Z
+DTSTAMP:20230227T171116Z
+UID:49209210-96bb-4263-9973-572ac36ccc67@4920.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
+DTSTART:20230525T074500Z
+DTEND:20230525T091500Z
+DTSTAMP:20230227T171116Z
+UID:7d04f85a-ac45-402f-8a43-43f1886aad6b@7d04.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Vorlesung
+DTSTART:20230628T074500Z
+DTEND:20230628T091500Z
+DTSTAMP:20230227T171116Z
+UID:23ecf554-5a33-497c-8b0d-f758ae313864@23ec.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
 LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Datenbanken SD Vorlesung
 DTSTART:20230329T074500Z
 DTEND:20230329T091500Z
-DTSTAMP:20230227T161419Z
-UID:9b1c41af-6baa-4eeb-bf42-0328023e33b8@9b1c.org
+DTSTAMP:20230227T171116Z
+UID:28f69272-08e2-4094-9bd9-703e98ec791f@28f6.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Sprick\nGruppen: 1\, 2\n\n\nZulet
- zt aktualisiert: 2023-02-27 17:14:19
+ zt aktualisiert: 2023-02-27 18:11:16
 LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
+DTSTART:20230629T074500Z
+DTEND:20230629T091500Z
+DTSTAMP:20230227T171116Z
+UID:18a68022-38d3-4540-9042-690d827eae4e@18a6.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
+DTSTART:20230601T074500Z
+DTEND:20230601T091500Z
+DTSTAMP:20230227T171116Z
+UID:ec3b8d2e-492b-415f-8f0a-0997aa5b8c89@ec3b.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Vorlesung
+DTSTART:20230613T093000Z
+DTEND:20230613T110000Z
+DTSTAMP:20230227T171116Z
+UID:5132e24b-6c58-4380-bbc5-d48404774b1d@5132.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Übung
+DTSTART:20230508T074500Z
+DTEND:20230508T091500Z
+DTSTAMP:20230227T171116Z
+UID:81f946a0-617a-4f9f-97b5-cc735df0b3ae@81f9.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Datenbanken SD Übung
+DTSTART:20230315T103000Z
+DTEND:20230315T120000Z
+DTSTAMP:20230227T171116Z
+UID:b42d4879-9569-4bfa-88a0-7c36a4d180dd@b42d.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Sprick\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Vorlesung
+DTSTART:20230516T093000Z
+DTEND:20230516T110000Z
+DTSTAMP:20230227T171116Z
+UID:89c7cc9c-94f0-48e4-aa16-8c979d85068f@89c7.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Vorlesung
+DTSTART:20230627T074500Z
+DTEND:20230627T091500Z
+DTSTAMP:20230227T171116Z
+UID:ec03f886-b51f-47bb-bd48-53421d96f6af@ec03.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. McNamara\nGruppen: 1\, 2\n\n\nZul
+ etzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230427T120000Z
+DTEND:20230427T133000Z
+DTSTAMP:20230227T171116Z
+UID:c2197ddf-b366-4372-a1f9-577cc39e8da4@c219.org
+DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
+ ert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
+DTSTART:20230427T074500Z
+DTEND:20230427T091500Z
+DTSTAMP:20230227T171116Z
+UID:3f0d7dff-c031-4da8-87ec-74c805e059db@3f0d.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Vorlesung
+DTSTART:20230420T074500Z
+DTEND:20230420T091500Z
+DTSTAMP:20230227T171116Z
+UID:505b35d6-1070-4c41-a2fe-2cf2f9f6934e@505b.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\, 2\n\n
+ \nZuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Übung
+DTSTART:20230704T134500Z
+DTEND:20230704T151500Z
+DTSTAMP:20230227T171116Z
+UID:f692d9ab-80d6-4e1f-8d8f-e4e4b928e785@f692.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Übung
+DTSTART:20230606T134500Z
+DTEND:20230606T151500Z
+DTSTAMP:20230227T171116Z
+UID:e0496070-af1f-457b-b728-b928bfb58afd@e049.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230420T120000Z
+DTEND:20230420T133000Z
+DTSTAMP:20230227T171116Z
+UID:dec721c5-221a-43c9-9f88-5523c995acdd@dec7.org
+DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
+ ert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theoretische Informatik SD Vorlesung
+DTSTART:20230328T093000Z
+DTEND:20230328T110000Z
+DTSTAMP:20230227T171116Z
+UID:b20af351-1483-4f06-b9d4-410d394273f4@b20a.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\, 2\n\n\nZulet
+ zt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmiertechnik II SD Übung
+DTSTART:20230605T093000Z
+DTEND:20230605T110000Z
+DTSTAMP:20230227T171116Z
+UID:d772e0c5-2de1-43f0-862d-7bea1b3073fb@d772.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230622T120000Z
+DTEND:20230622T133000Z
+DTSTAMP:20230227T171116Z
+UID:27483e54-0d85-4444-ae07-1fad121b7acc@2748.org
+DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
+ ert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Übung
+DTSTART:20230425T120000Z
+DTEND:20230425T133000Z
+DTSTAMP:20230227T171116Z
+UID:40e2916b-29f1-48cb-8472-84256a554ea1@40e2.org
+DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
+  aktualisiert: 2023-02-27 18:11:16
+LOCATION:Seminarraum C3-107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Vorlesung
+DTSTART:20230627T060000Z
+DTEND:20230627T073000Z
+DTSTAMP:20230227T171116Z
+UID:8b8235c7-f358-4d1c-a1a6-effff1d577fd@8b82.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\, 2\n\n\n
+ Zuletzt aktualisiert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fachsprache Englisch SD Vorlesung
+DTSTART:20230323T130000Z
+DTEND:20230323T143000Z
+DTSTAMP:20230227T171116Z
+UID:38528650-a81c-4816-a259-35e2bc6776e4@3852.org
+DESCRIPTION:Vorlesung\nDozent: Schubert\nGruppen: 1\n\n\nZuletzt aktualisi
+ ert: 2023-02-27 18:11:16
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grundlagen des Softwareengineering SD Übung
+DTSTART:20230417T074500Z
+DTEND:20230417T091500Z
+DTSTAMP:20230227T171116Z
+UID:a6da7e73-0889-4175-b5e0-bcbffb4427c4@a6da.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. McNamara\nGruppen: 1\n\n\nZuletzt ak
+ tualisiert: 2023-02-27 18:11:16
+LOCATION:Labor für Medizinische IT und Simulation (Kombi-Rechnerraum) C3-
+ 105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mathematik II SD Übung
+DTSTART:20230509T120000Z
+DTEND:20230509T133000Z
+DTSTAMP:20230227T171116Z
+UID:4b32243a-b79a-4f90-8d52-3c6f685d5904@4b32.org
+DESCRIPTION:Übung\nDozent: Prof. Tekn. Dr. Weidl\nGruppen: 1\n\n\nZuletzt
+  aktualisiert: 2023-02-27 18:11:16
+LOCATION:Seminarraum C3-107
 END:VEVENT
 END:VCALENDAR
