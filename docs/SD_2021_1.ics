@@ -2,458 +2,656 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:Nicolai Kobras
 BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230607T153000Z
-DTEND:20230607T170000Z
-DTSTAMP:20230301T141234Z
-UID:0bf6b485-7aef-4d01-9d7f-48076af6a8e0@0bf6.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230315T084500Z
-DTEND:20230315T101500Z
-DTSTAMP:20230301T141234Z
-UID:02ff076c-25c2-4588-b9b4-50817d1113a1@02ff.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
- i-Rechnerraum) C3-105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230510T093000Z
-DTEND:20230510T110000Z
-DTSTAMP:20230301T141234Z
-UID:210f0120-b588-4261-b9c7-5eb6cad80596@210f.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
-DTSTART:20230525T134500Z
-DTEND:20230525T151500Z
-DTSTAMP:20230301T141234Z
-UID:f1cfcfae-3971-49d4-9572-e039a906f04b@f1cf.org
-DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230322T084500Z
-DTEND:20230322T101500Z
-DTSTAMP:20230301T141234Z
-UID:a5b419a7-381b-40bc-b04f-fa684fd74523@a5b4.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
- i-Rechnerraum) C3-105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230627T060000Z
-DTEND:20230627T073000Z
-DTSTAMP:20230301T141234Z
-UID:e114b3d7-393b-4ea1-832a-773a45d2a386@e114.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Parallele und verteilte Systeme SD Vorlesung
-DTSTART:20230519T093000Z
-DTEND:20230519T110000Z
-DTSTAMP:20230301T141234Z
-UID:dac2f5ef-526e-41ed-8736-b91d9bc1b271@dac2.org
+DTSTART:20230602T093000Z
+DTEND:20230602T110000Z
+DTSTAMP:20230301T151218Z
+UID:24eefea5-4942-4154-944f-903292176ee6@24ee.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230517T134500Z
-DTEND:20230517T151500Z
-DTSTAMP:20230301T141234Z
-UID:b614ba79-bf03-4832-9ad2-2b713ff9b1bb@b614.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230315T103000Z
-DTEND:20230315T120000Z
-DTSTAMP:20230301T141234Z
-UID:3f488578-ba5d-456a-91de-b3443ee9d197@3f48.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230613T060000Z
-DTEND:20230613T073000Z
-DTSTAMP:20230301T141234Z
-UID:009f8115-545a-492c-a000-cd1633aa7c20@009f.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230607T134500Z
-DTEND:20230607T151500Z
-DTSTAMP:20230301T141234Z
-UID:f595f6c4-5cee-4cb2-b06a-b0266b43cc3e@f595.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
-DTSTART:20230706T134500Z
-DTEND:20230706T151500Z
-DTSTAMP:20230301T141234Z
-UID:ca3a33c4-befe-4595-97d2-5ddacb32c0b5@ca3a.org
-DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
-DTSTART:20230316T103000Z
-DTEND:20230316T120000Z
-DTSTAMP:20230301T141234Z
-UID:aed04a76-e3fe-4418-b567-d2c3d41171e5@aed0.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230426T074500Z
-DTEND:20230426T091500Z
-DTSTAMP:20230301T141234Z
-UID:c73a396c-1f37-489f-8213-888bf62223d3@c73a.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
- i-Rechnerraum) C3-105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230606T060000Z
-DTEND:20230606T073000Z
-DTSTAMP:20230301T141234Z
-UID:d0a35443-de4d-44d3-b6a8-046fbd21e74c@d0a3.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230405T153000Z
-DTEND:20230405T170000Z
-DTSTAMP:20230301T141234Z
-UID:8fc32a1f-75d0-4361-80e5-979c710b9100@8fc3.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230524T093000Z
-DTEND:20230524T110000Z
-DTSTAMP:20230301T141234Z
-UID:13eef06f-5c26-4560-9899-ec8bb9d9c7f8@13ee.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230705T134500Z
-DTEND:20230705T151500Z
-DTSTAMP:20230301T141234Z
-UID:b965620e-1b36-4710-a91f-9a45361a4f2f@b965.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230607T093000Z
-DTEND:20230607T110000Z
-DTSTAMP:20230301T141234Z
-UID:097b744d-ee20-49da-b85b-9666212f425b@097b.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230510T120000Z
-DTEND:20230510T133000Z
-DTSTAMP:20230301T141234Z
-UID:8fdfa5bd-72f3-4933-98ef-66b9b98aaaf2@8fdf.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230509T060000Z
-DTEND:20230509T073000Z
-DTSTAMP:20230301T141234Z
-UID:7cd996ef-b4de-4c52-9985-f34f6133cc73@7cd9.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230614T134500Z
-DTEND:20230614T151500Z
-DTSTAMP:20230301T141234Z
-UID:00533ac0-ec52-419c-91a6-08f1b1953888@0053.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230404T060000Z
-DTEND:20230404T073000Z
-DTSTAMP:20230301T141234Z
-UID:d5879067-6a99-4684-a548-27c373b4263a@d587.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230315T144500Z
-DTEND:20230315T161500Z
-DTSTAMP:20230301T141234Z
-UID:9ccaee37-88fa-49d9-a3fb-4171d2fe3d1d@9cca.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
-DTSTART:20230622T134500Z
-DTEND:20230622T151500Z
-DTSTAMP:20230301T141234Z
-UID:e3c459bf-b832-4223-9b16-5e016ee8f775@e3c4.org
-DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Vorlesung
-DTSTART:20230616T093000Z
-DTEND:20230616T110000Z
-DTSTAMP:20230301T141234Z
-UID:31afb82d-3cbe-4bf8-b0ef-9df1bb71e87b@31af.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230517T074500Z
-DTEND:20230517T091500Z
-DTSTAMP:20230301T141234Z
-UID:0b794a4a-94b0-4a4a-ad5b-93a43f4c926d@0b79.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
- i-Rechnerraum) C3-105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
-DTSTART:20230427T134500Z
-DTEND:20230427T151500Z
-DTSTAMP:20230301T141234Z
-UID:980f1e39-c609-4656-9151-74a91e79e1c0@980f.org
-DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
-DTSTART:20230504T134500Z
-DTEND:20230504T151500Z
-DTSTAMP:20230301T141234Z
-UID:efaa468d-63d3-44f6-8e52-888f373ddfd4@efaa.org
-DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Übung
-DTSTART:20230613T134500Z
-DTEND:20230613T151500Z
-DTSTAMP:20230301T141234Z
-UID:5a43a62e-d0da-43fd-9bb0-291e7ebfc68f@5a43.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
-DTSTART:20230427T093000Z
-DTEND:20230427T110000Z
-DTSTAMP:20230301T141234Z
-UID:51f7162b-91bf-4ad7-bc51-bebced6d2861@51f7.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
-DTSTART:20230615T134500Z
-DTEND:20230615T151500Z
-DTSTAMP:20230301T141234Z
-UID:a5afff2c-824f-4599-8cf0-415a8ff99d42@a5af.org
-DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Übung
-DTSTART:20230523T134500Z
-DTEND:20230523T151500Z
-DTSTAMP:20230301T141234Z
-UID:ad3ffc1c-0fa0-4000-9133-805bcd79d6c5@ad3f.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230315T163000Z
-DTEND:20230315T180000Z
-DTSTAMP:20230301T141234Z
-UID:f1bfd9b8-189d-4729-90b5-06bd91e236bd@f1bf.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230524T074500Z
-DTEND:20230524T091500Z
-DTSTAMP:20230301T141234Z
-UID:13d79f44-cbaa-4b85-a4cf-d24ad9fa2366@13d7.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
- i-Rechnerraum) C3-105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230705T120000Z
-DTEND:20230705T133000Z
-DTSTAMP:20230301T141234Z
-UID:26806dd2-da88-42c4-8bd4-acd8b99447ce@2680.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Übung
-DTSTART:20230502T134500Z
-DTEND:20230502T151500Z
-DTSTAMP:20230301T141234Z
-UID:248cbde6-7a0f-4f76-8d9b-8dcbfa10461e@248c.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230503T093000Z
-DTEND:20230503T110000Z
-DTSTAMP:20230301T141234Z
-UID:1eceade3-3367-4fcd-aa21-e70a05af5716@1ece.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230322T130000Z
-DTEND:20230322T143000Z
-DTSTAMP:20230301T141234Z
-UID:635a8346-367b-4d78-a2bc-34f311745ce8@635a.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Übung
-DTSTART:20230620T134500Z
-DTEND:20230620T151500Z
-DTSTAMP:20230301T141234Z
-UID:9c60bf79-acfb-4b94-b992-208be1233e84@9c60.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230621T153000Z
-DTEND:20230621T170000Z
-DTSTAMP:20230301T141234Z
-UID:5d996cb4-940d-4e89-b1e2-a1af01b91b38@5d99.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
-DTSTART:20230629T134500Z
-DTEND:20230629T151500Z
-DTSTAMP:20230301T141234Z
-UID:72df305a-3af5-4c57-8dac-98bf19b2a60b@72df.org
-DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parallele und verteilte Systeme SD Vorlesung
 DTSTART:20230512T093000Z
 DTEND:20230512T110000Z
-DTSTAMP:20230301T141234Z
-UID:fb3a51e3-ce93-4318-90a1-b66e2ce1c3f2@fb3a.org
+DTSTAMP:20230301T151218Z
+UID:dc5398a6-a1a4-4294-8422-57589ece3af4@dc53.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
+DTSTART:20230706T093000Z
+DTEND:20230706T110000Z
+DTSTAMP:20230301T151218Z
+UID:539899a4-34a9-4daa-9b7f-1dd9e69d2d97@5398.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230531T134500Z
+DTEND:20230531T151500Z
+DTSTAMP:20230301T151218Z
+UID:a8d8974a-1bd4-4027-bd7f-493aa72dc0fc@a8d8.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230531T093000Z
+DTEND:20230531T110000Z
+DTSTAMP:20230301T151218Z
+UID:ddcf92d9-b91a-4387-8eda-ba92dbc8c7ac@ddcf.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
+DTSTART:20230413T093000Z
+DTEND:20230413T110000Z
+DTSTAMP:20230301T151218Z
+UID:5b550458-e02a-42d1-848f-8f01092f4bbf@5b55.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Vorlesung
+DTSTART:20230630T093000Z
+DTEND:20230630T110000Z
+DTSTAMP:20230301T151218Z
+UID:204e38e7-55ca-44b2-a891-7082f4ad30da@204e.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230322T130000Z
+DTEND:20230322T143000Z
+DTSTAMP:20230301T151218Z
+UID:6b887ec7-8706-4803-8673-a6b030bb0344@6b88.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230419T134500Z
+DTEND:20230419T151500Z
+DTSTAMP:20230301T151218Z
+UID:6e5fcd80-1c6e-4de8-b9ea-80b69d362687@6e5f.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230322T103000Z
+DTEND:20230322T120000Z
+DTSTAMP:20230301T151218Z
+UID:fba5fe6e-d316-4cc3-9777-f5b6191e76eb@fba5.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230412T134500Z
+DTEND:20230412T151500Z
+DTSTAMP:20230301T151218Z
+UID:a402e2d0-39ed-47cc-97f2-97d59469c64c@a402.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230510T120000Z
+DTEND:20230510T133000Z
+DTSTAMP:20230301T151218Z
+UID:78cb94b3-8cdf-4523-a410-8b736665c9de@78cb.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230426T134500Z
+DTEND:20230426T151500Z
+DTSTAMP:20230301T151218Z
+UID:2c1fa49d-8e96-44d7-9ec5-137f91b55b3e@2c1f.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
+DTSTART:20230427T093000Z
+DTEND:20230427T110000Z
+DTSTAMP:20230301T151218Z
+UID:a715db35-e8cb-4211-a901-2f4cb4f4264f@a715.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
+DTSTART:20230418T060000Z
+DTEND:20230418T073000Z
+DTSTAMP:20230301T151218Z
+UID:28d2f5ba-9616-408f-929d-55dbcfaf109a@28d2.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230322T144500Z
+DTEND:20230322T161500Z
+DTSTAMP:20230301T151218Z
+UID:55c65c44-f630-44a0-beae-40d4e0609b70@55c6.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
+DTSTART:20230330T134500Z
+DTEND:20230330T151500Z
+DTSTAMP:20230301T151218Z
+UID:c4251ace-983b-4a8e-bf96-6fc67bac7709@c425.org
+DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
+ isiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
+DTSTART:20230606T060000Z
+DTEND:20230606T073000Z
+DTSTAMP:20230301T151218Z
+UID:1fbf65c5-dcbe-4122-a4e5-d3d09c48f938@1fbf.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230510T134500Z
+DTEND:20230510T151500Z
+DTSTAMP:20230301T151218Z
+UID:738d80aa-9e53-4ed9-be9e-f20d82cd68a8@738d.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230503T153000Z
+DTEND:20230503T170000Z
+DTSTAMP:20230301T151218Z
+UID:e7c3693b-4df7-4c56-9aed-29f49f3e66f6@e7c3.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
+DTSTART:20230316T103000Z
+DTEND:20230316T120000Z
+DTSTAMP:20230301T151218Z
+UID:ca3f718c-62c0-4e30-81d1-3d3cbfc0cf8a@ca3f.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
+DTSTART:20230511T134500Z
+DTEND:20230511T151500Z
+DTSTAMP:20230301T151218Z
+UID:5f74531d-1a6b-4f69-bdbf-7023045bfa53@5f74.org
+DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
+ isiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
+DTSTART:20230629T093000Z
+DTEND:20230629T110000Z
+DTSTAMP:20230301T151218Z
+UID:a6087ced-a0a7-4250-9d9e-99cf46c3048d@a608.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Übung
+DTSTART:20230704T134500Z
+DTEND:20230704T151500Z
+DTSTAMP:20230301T151218Z
+UID:7f676008-5673-43c2-ad0b-e762fe8650ca@7f67.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
+DTSTART:20230601T134500Z
+DTEND:20230601T151500Z
+DTSTAMP:20230301T151218Z
+UID:bfa1f944-9c75-465d-af23-6ef88df643f2@bfa1.org
+DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
+ isiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230614T093000Z
+DTEND:20230614T110000Z
+DTSTAMP:20230301T151218Z
+UID:e50a1bda-7b42-45b0-9c88-e6dc27fc204b@e50a.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
+DTSTART:20230315T084500Z
+DTEND:20230315T101500Z
+DTSTAMP:20230301T151218Z
+UID:37159429-7b34-4f65-961e-55575769d1fa@3715.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
+ i-Rechnerraum) C3-105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Vorlesung
+DTSTART:20230317T103000Z
+DTEND:20230317T120000Z
+DTSTAMP:20230301T151218Z
+UID:d43bdb8a-5fcc-46ac-8923-7a6b231f711a@d43b.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230705T120000Z
+DTEND:20230705T133000Z
+DTSTAMP:20230301T151218Z
+UID:56b755e3-ae0f-45c6-a57c-4b52ad3fe179@56b7.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230517T093000Z
+DTEND:20230517T110000Z
+DTSTAMP:20230301T151218Z
+UID:5e747b28-8fe9-496f-833e-613b0be7dca3@5e74.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230329T093000Z
+DTEND:20230329T110000Z
+DTSTAMP:20230301T151218Z
+UID:1197ef3c-5ca3-4ab3-9aeb-5c7fd84c937a@1197.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230517T153000Z
+DTEND:20230517T170000Z
+DTSTAMP:20230301T151218Z
+UID:18f50f47-205e-438c-a80c-e34a571d1495@18f5.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
+DTSTART:20230704T060000Z
+DTEND:20230704T073000Z
+DTSTAMP:20230301T151218Z
+UID:e1a0227a-9d3b-437b-a135-63cda47c1334@e1a0.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230628T120000Z
+DTEND:20230628T133000Z
+DTSTAMP:20230301T151218Z
+UID:8fdf1dfd-984a-47ea-bf90-7bd8adba8e9c@8fdf.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230315T103000Z
+DTEND:20230315T120000Z
+DTSTAMP:20230301T151218Z
+UID:db79f85a-eea7-4392-9c5f-7c4e5e719698@db79.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230621T120000Z
+DTEND:20230621T133000Z
+DTSTAMP:20230301T151218Z
+UID:3721920f-7ef4-42d2-b4ba-a55c56ac940a@3721.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
+DTSTART:20230705T074500Z
+DTEND:20230705T091500Z
+DTSTAMP:20230301T151218Z
+UID:f04ff7dc-15fa-4915-8af8-eec30365925f@f04f.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
+ i-Rechnerraum) C3-105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230705T153000Z
+DTEND:20230705T170000Z
+DTSTAMP:20230301T151218Z
+UID:52637d84-ba5f-4ac8-9a22-960b5ab4b2ac@5263.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Vorlesung
+DTSTART:20230428T093000Z
+DTEND:20230428T110000Z
+DTSTAMP:20230301T151218Z
+UID:efa41ebd-1776-41b4-afaa-649e32f829e8@efa4.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
+DTSTART:20230627T060000Z
+DTEND:20230627T073000Z
+DTSTAMP:20230301T151218Z
+UID:d0935f13-dfe6-40b4-a68e-e55a1586cff0@d093.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
+DTSTART:20230516T060000Z
+DTEND:20230516T073000Z
+DTSTAMP:20230301T151218Z
+UID:1816140f-8d1f-444b-94f0-f23bdd1f1e42@1816.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230419T153000Z
+DTEND:20230419T170000Z
+DTSTAMP:20230301T151218Z
+UID:c18034c5-d8ce-46f0-a25c-d1322f844125@c180.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
+DTSTART:20230504T134500Z
+DTEND:20230504T151500Z
+DTSTAMP:20230301T151218Z
+UID:7d2f3faf-cbe5-4947-9867-7c657401b088@7d2f.org
+DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
+ isiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Übung
+DTSTART:20230509T134500Z
+DTEND:20230509T151500Z
+DTSTAMP:20230301T151218Z
+UID:20d8eadc-ea6d-4646-827d-ad61aaf85649@20d8.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
+DTSTART:20230511T093000Z
+DTEND:20230511T110000Z
+DTSTAMP:20230301T151218Z
+UID:3d0c92c7-42e2-4386-96f7-544ecd4d3f50@3d0c.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230517T120000Z
+DTEND:20230517T133000Z
+DTSTAMP:20230301T151218Z
+UID:901e6930-37ae-4c8d-ae9c-289eb504d64d@901e.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230621T153000Z
+DTEND:20230621T170000Z
+DTSTAMP:20230301T151218Z
+UID:ddd71870-f0a3-41f4-a809-021e3ce0665e@ddd7.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230426T153000Z
+DTEND:20230426T170000Z
+DTSTAMP:20230301T151218Z
+UID:b8613c8f-b688-47a6-b756-c9faf706b386@b861.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
+DTSTART:20230621T074500Z
+DTEND:20230621T091500Z
+DTSTAMP:20230301T151218Z
+UID:0a671ee5-2b5a-46fd-9fd4-18c82cb4177f@0a67.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
+ i-Rechnerraum) C3-105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230531T153000Z
+DTEND:20230531T170000Z
+DTSTAMP:20230301T151218Z
+UID:9c4ece92-5dd6-4285-8427-e291222a50dc@9c4e.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230329T120000Z
+DTEND:20230329T133000Z
+DTSTAMP:20230301T151218Z
+UID:50401975-5647-49fd-8efd-aef7089c7c67@5040.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
+DTSTART:20230316T144500Z
+DTEND:20230316T161500Z
+DTSTAMP:20230301T151218Z
+UID:e47d8ffa-2141-4cf8-926b-dae82c31ec75@e47d.org
+DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
+ isiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
+DTSTART:20230323T103000Z
+DTEND:20230323T120000Z
+DTSTAMP:20230301T151218Z
+UID:64ae42b4-8c7a-46d7-a606-c90dadaca863@64ae.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230524T093000Z
+DTEND:20230524T110000Z
+DTSTAMP:20230301T151218Z
+UID:b374bf4b-c922-47c7-8ea6-57fefc30a33f@b374.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230315T144500Z
+DTEND:20230315T161500Z
+DTSTAMP:20230301T151218Z
+UID:d4ab9516-f889-481c-8bab-42aa86f2e430@d4ab.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
+DTSTART:20230509T060000Z
+DTEND:20230509T073000Z
+DTSTAMP:20230301T151218Z
+UID:be609ad6-c4cd-4661-9384-e708b7c56c26@be60.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
+DTSTART:20230425T060000Z
+DTEND:20230425T073000Z
+DTSTAMP:20230301T151218Z
+UID:09b1c8b1-9dbd-4a1f-b2e3-f305fd25f547@09b1.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
+DTSTART:20230629T134500Z
+DTEND:20230629T151500Z
+DTSTAMP:20230301T151218Z
+UID:94bcfffe-935d-45f5-a0a0-2e940d72e09a@94bc.org
+DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
+ isiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230614T134500Z
+DTEND:20230614T151500Z
+DTSTAMP:20230301T151218Z
+UID:2e939899-571b-4827-94de-503b40679f8d@2e93.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230524T134500Z
+DTEND:20230524T151500Z
+DTSTAMP:20230301T151218Z
+UID:5681db90-e228-45c9-bc7a-e3f0df5a356c@5681.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parallele und verteilte Systeme SD Übung
 DTSTART:20230321T144500Z
 DTEND:20230321T161500Z
-DTSTAMP:20230301T141234Z
-UID:20c89c1d-7d85-4bcf-83c2-cc76ccd47fb0@20c8.org
+DTSTAMP:20230301T151218Z
+UID:9f429e4f-8e71-46dd-a406-f87f38da4744@9f42.org
 DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
+ tzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Rechnerraum 40-140
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
+DTSTART:20230615T093000Z
+DTEND:20230615T110000Z
+DTSTAMP:20230301T151218Z
+UID:71d1d4e1-a5ad-4b6d-b214-d8a3fb079d84@71d1.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230621T093000Z
+DTEND:20230621T110000Z
+DTSTAMP:20230301T151218Z
+UID:0cd79dda-0751-49ea-9bbd-25c1d49bc09c@0cd7.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230419T120000Z
+DTEND:20230419T133000Z
+DTSTAMP:20230301T151218Z
+UID:f6630f6f-35fe-4c73-85ad-572d8dd85f5f@f663.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230503T074500Z
-DTEND:20230503T091500Z
-DTSTAMP:20230301T141234Z
-UID:18a6c043-bccf-4a11-9446-4e32dc9ea971@18a6.org
+DTSTART:20230510T074500Z
+DTEND:20230510T091500Z
+DTSTAMP:20230301T151218Z
+UID:88188218-96db-4c9c-ae30-3aef35aedb81@8818.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
  i-Rechnerraum) C3-105
 END:VEVENT
@@ -461,1111 +659,913 @@ BEGIN:VEVENT
 SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
 DTSTART:20230525T093000Z
 DTEND:20230525T110000Z
-DTSTAMP:20230301T141234Z
-UID:ec8d0164-b880-4cc0-a32c-9ced36619e30@ec8d.org
+DTSTAMP:20230301T151218Z
+UID:fd52f681-1753-46f1-b05f-f978d83cb952@fd52.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230614T074500Z
-DTEND:20230614T091500Z
-DTSTAMP:20230301T141234Z
-UID:642a7a1b-28db-45f3-bd60-07932d410db9@642a.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
- i-Rechnerraum) C3-105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
-DTSTART:20230413T134500Z
-DTEND:20230413T151500Z
-DTSTAMP:20230301T141234Z
-UID:915a242d-7b49-40d6-bb94-64042811a3dc@915a.org
-DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Vorlesung
-DTSTART:20230331T093000Z
-DTEND:20230331T110000Z
-DTSTAMP:20230301T141234Z
-UID:ac36a1ca-8064-4895-ab87-ec99be2a5cba@ac36.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Vorlesung
-DTSTART:20230630T093000Z
-DTEND:20230630T110000Z
-DTSTAMP:20230301T141234Z
-UID:b1ebe30b-8004-40ed-b33d-9d1947b4a766@b1eb.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230517T093000Z
-DTEND:20230517T110000Z
-DTSTAMP:20230301T141234Z
-UID:7267386c-88ca-43df-b26b-6af970a03cd3@7267.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Übung
-DTSTART:20230704T134500Z
-DTEND:20230704T151500Z
-DTSTAMP:20230301T141234Z
-UID:72a1bcc9-3344-45ba-9ce6-68506fbbe662@72a1.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
-DTSTART:20230330T134500Z
-DTEND:20230330T151500Z
-DTSTAMP:20230301T141234Z
-UID:2b65319d-34db-4e56-b460-0c3017d86737@2b65.org
-DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230425T060000Z
-DTEND:20230425T073000Z
-DTSTAMP:20230301T141234Z
-UID:48f5ff92-a1bc-48f4-9222-04bd908c5fe7@48f5.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230621T093000Z
-DTEND:20230621T110000Z
-DTSTAMP:20230301T141234Z
-UID:2a4a1e41-5762-41a2-90f7-54ff7a5a1bb6@2a4a.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
-DTSTART:20230504T093000Z
-DTEND:20230504T110000Z
-DTSTAMP:20230301T141234Z
-UID:3d3c9dca-4d33-4db4-ac35-c95d4365eb5f@3d3c.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Übung
-DTSTART:20230509T134500Z
-DTEND:20230509T151500Z
-DTSTAMP:20230301T141234Z
-UID:bb2b74d2-807e-4bb7-a076-5f76eea74f4a@bb2b.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Vorlesung
-DTSTART:20230707T093000Z
-DTEND:20230707T110000Z
-DTSTAMP:20230301T141234Z
-UID:e41668f3-89b2-49db-acd3-21099dfdecb9@e416.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230704T060000Z
-DTEND:20230704T073000Z
-DTSTAMP:20230301T141234Z
-UID:f42192e3-0d96-443c-938b-a41371c48eb2@f421.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230705T093000Z
-DTEND:20230705T110000Z
-DTSTAMP:20230301T141234Z
-UID:9b9091a8-37e9-4fad-a0ca-537cff9ce3e5@9b90.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230516T060000Z
-DTEND:20230516T073000Z
-DTSTAMP:20230301T141234Z
-UID:31ee5075-0fb2-497c-8583-d419e9be5ea2@31ee.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
-DTSTART:20230323T144500Z
-DTEND:20230323T161500Z
-DTSTAMP:20230301T141234Z
-UID:fb5eace1-56b7-4f6f-a3d1-ae53141b1278@fb5e.org
-DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
-DTSTART:20230330T093000Z
-DTEND:20230330T110000Z
-DTSTAMP:20230301T141234Z
-UID:4dbd16c0-d06d-4327-a558-fb9859137203@4dbd.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230412T093000Z
-DTEND:20230412T110000Z
-DTSTAMP:20230301T141234Z
-UID:5f9776b3-16ca-45b4-83f3-3b756ff5b7a9@5f97.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230419T093000Z
-DTEND:20230419T110000Z
-DTSTAMP:20230301T141234Z
-UID:87ae3b0c-e889-4e30-999f-fedfdb97cac7@87ae.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Vorlesung
-DTSTART:20230505T093000Z
-DTEND:20230505T110000Z
-DTSTAMP:20230301T141234Z
-UID:1407278c-ce57-4266-ad9f-166bc7e20591@1407.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230502T060000Z
-DTEND:20230502T073000Z
-DTSTAMP:20230301T141234Z
-UID:e2888e0e-cfe8-4bf4-ab98-e19d27886b82@e288.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Übung
-DTSTART:20230404T134500Z
-DTEND:20230404T151500Z
-DTSTAMP:20230301T141234Z
-UID:ca7d6e7b-3ae9-48d7-8619-24407f53862e@ca7d.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
-DTSTART:20230323T103000Z
-DTEND:20230323T120000Z
-DTSTAMP:20230301T141234Z
-UID:4fdf8f33-f202-4449-bfeb-c9558a193a0c@4fdf.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Hörsaal 40-150 aufsteigend
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parallele und verteilte Systeme SD Übung
 DTSTART:20230606T134500Z
 DTEND:20230606T151500Z
-DTSTAMP:20230301T141234Z
-UID:c20131a1-a660-4eb1-920e-210ff9c57f73@c201.org
+DTSTAMP:20230301T151218Z
+UID:06f2cfc1-c680-4ca0-aac1-4049dcdd4c44@06f2.org
 DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
+ tzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230419T153000Z
-DTEND:20230419T170000Z
-DTSTAMP:20230301T141234Z
-UID:48e59b3c-8de6-4d64-966b-eaba28c4ef54@48e5.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Vorlesung
-DTSTART:20230428T093000Z
-DTEND:20230428T110000Z
-DTSTAMP:20230301T141234Z
-UID:a164189f-1c8b-4906-a06b-eca1ed8e8c4f@a164.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230321T070000Z
-DTEND:20230321T083000Z
-DTSTAMP:20230301T141234Z
-UID:40951cde-7ddf-46fa-b0c0-ce80e8919243@4095.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230503T153000Z
-DTEND:20230503T170000Z
-DTSTAMP:20230301T141234Z
-UID:737d47d5-f433-4123-a1d9-da5898c5091f@737d.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230510T153000Z
-DTEND:20230510T170000Z
-DTSTAMP:20230301T141234Z
-UID:018fa1e6-6d2c-477d-8d08-ad26bf647b88@018f.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230628T134500Z
-DTEND:20230628T151500Z
-DTSTAMP:20230301T141234Z
-UID:8faff1cb-a084-4369-b477-714beec31926@8faf.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230614T153000Z
-DTEND:20230614T170000Z
-DTSTAMP:20230301T141234Z
-UID:28d54ac8-03ce-4c94-9541-d6934b80fc8a@28d5.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parallele und verteilte Systeme SD Übung
-DTSTART:20230627T134500Z
-DTEND:20230627T151500Z
-DTSTAMP:20230301T141234Z
-UID:d48088ae-f412-4c2c-ae9a-e69e72f0a2ae@d480.org
+DTSTART:20230404T134500Z
+DTEND:20230404T151500Z
+DTSTAMP:20230301T151218Z
+UID:63f11a5f-ade6-4d8d-866b-d3e9d77a552b@63f1.org
 DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
+ tzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Vorlesung
-DTSTART:20230602T093000Z
-DTEND:20230602T110000Z
-DTSTAMP:20230301T141234Z
-UID:58eecd10-3d3f-44d6-a795-49ab7f2bb499@58ee.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230412T153000Z
-DTEND:20230412T170000Z
-DTSTAMP:20230301T141234Z
-UID:5b2130bf-ae35-4ac4-a1c5-1040b5d8afbe@5b21.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230426T093000Z
-DTEND:20230426T110000Z
-DTSTAMP:20230301T141234Z
-UID:2e36c7c9-2959-4bb4-b93e-e872a39fb32d@2e36.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230426T153000Z
-DTEND:20230426T170000Z
-DTSTAMP:20230301T141234Z
-UID:b0f8f020-affb-4f1f-866f-ab8f8f4a14de@b0f8.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230628T074500Z
-DTEND:20230628T091500Z
-DTSTAMP:20230301T141234Z
-UID:98a020c0-f28d-4b80-a463-c2125085a68e@98a0.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
- i-Rechnerraum) C3-105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230322T163000Z
-DTEND:20230322T180000Z
-DTSTAMP:20230301T141234Z
-UID:b5143639-e5f5-4f5c-8176-09b578f8c835@b514.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
-DTSTART:20230316T144500Z
-DTEND:20230316T161500Z
-DTSTAMP:20230301T141234Z
-UID:eb83d930-017a-4a49-bf92-79be18b234d5@eb83.org
-DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230628T120000Z
-DTEND:20230628T133000Z
-DTSTAMP:20230301T141234Z
-UID:a2bb7f06-096d-4695-9c4d-ffd59b1f2acb@a2bb.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230614T120000Z
-DTEND:20230614T133000Z
-DTSTAMP:20230301T141234Z
-UID:1ca86070-dc47-4b8f-923e-57d032ffae6e@1ca8.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230503T120000Z
-DTEND:20230503T133000Z
-DTSTAMP:20230301T141234Z
-UID:0efedff3-9a03-4ed2-86ce-1a842c76deae@0efe.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230329T074500Z
-DTEND:20230329T091500Z
-DTSTAMP:20230301T141234Z
-UID:bf0ca036-4a71-498d-9bf2-38714aaec6e3@bf0c.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
- i-Rechnerraum) C3-105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230329T093000Z
-DTEND:20230329T110000Z
-DTSTAMP:20230301T141234Z
-UID:6c845afa-dce3-42a3-84f1-5ca546f8edae@6c84.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Vorlesung
-DTSTART:20230317T103000Z
-DTEND:20230317T120000Z
-DTSTAMP:20230301T141234Z
-UID:42220509-aa88-4620-b1a3-3d59961de236@4222.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Vorlesung
-DTSTART:20230623T093000Z
-DTEND:20230623T110000Z
-DTSTAMP:20230301T141234Z
-UID:b032e3e6-f1c2-4076-ac01-ff09d6325a63@b032.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
-DTSTART:20230511T134500Z
-DTEND:20230511T151500Z
-DTSTAMP:20230301T141234Z
-UID:6cbe9dbd-771f-4ea7-912e-ea37031c2ba6@6cbe.org
-DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230523T060000Z
-DTEND:20230523T073000Z
-DTSTAMP:20230301T141234Z
-UID:36cb30d4-ebfe-478b-8633-140866e93d77@36cb.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230412T120000Z
-DTEND:20230412T133000Z
-DTSTAMP:20230301T141234Z
-UID:aed6d761-f1cb-4a6a-b9ac-70d26cbf1fc4@aed6.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230628T093000Z
-DTEND:20230628T110000Z
-DTSTAMP:20230301T141234Z
-UID:135d0135-b681-4d12-8e0e-0c05f6c37cdd@135d.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230419T120000Z
-DTEND:20230419T133000Z
-DTSTAMP:20230301T141234Z
-UID:d45993b9-7c1c-4c60-80a1-98326d4fad23@d459.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
-DTSTART:20230622T093000Z
-DTEND:20230622T110000Z
-DTSTAMP:20230301T141234Z
-UID:1c467900-f10d-4ea9-bde9-bad2cef12926@1c46.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Vorlesung
-DTSTART:20230421T093000Z
-DTEND:20230421T110000Z
-DTSTAMP:20230301T141234Z
-UID:75989b7f-c1e8-40fb-a80a-f0e0c3d9ea52@7598.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230412T134500Z
-DTEND:20230412T151500Z
-DTSTAMP:20230301T141234Z
-UID:aa10a4a5-54df-4b2e-8420-82bb39b576ec@aa10.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230517T153000Z
-DTEND:20230517T170000Z
-DTSTAMP:20230301T141234Z
-UID:c5217f31-2db1-4f06-a86c-dfbc0e87a26b@c521.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
-DTSTART:20230706T093000Z
-DTEND:20230706T110000Z
-DTSTAMP:20230301T141234Z
-UID:8d3e377d-015a-4838-8615-88b013b0e282@8d3e.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230412T074500Z
-DTEND:20230412T091500Z
-DTSTAMP:20230301T141234Z
-UID:df47cef9-5627-478c-8a09-3290929a6af2@df47.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
- i-Rechnerraum) C3-105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230510T134500Z
-DTEND:20230510T151500Z
-DTSTAMP:20230301T141234Z
-UID:b35827d3-31ea-4776-9929-3de78df03152@b358.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230405T134500Z
-DTEND:20230405T151500Z
-DTSTAMP:20230301T141234Z
-UID:50953b09-5ab1-43bd-b7c0-4782a506a774@5095.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230329T153000Z
-DTEND:20230329T170000Z
-DTSTAMP:20230301T141234Z
-UID:e24d25bf-8a50-4460-8647-41d749cdc616@e24d.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230426T120000Z
-DTEND:20230426T133000Z
-DTSTAMP:20230301T141234Z
-UID:870aaf35-62e8-4a2c-899e-51e0a9f9d2e5@870a.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Übung
-DTSTART:20230328T134500Z
-DTEND:20230328T151500Z
-DTSTAMP:20230301T141234Z
-UID:f07078cd-87be-4cbb-b7f4-249ec9f600a9@f070.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
-DTSTART:20230601T134500Z
-DTEND:20230601T151500Z
-DTSTAMP:20230301T141234Z
-UID:c59b720a-153a-4834-abfd-eed002747b81@c59b.org
-DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230531T120000Z
-DTEND:20230531T133000Z
-DTSTAMP:20230301T141234Z
-UID:0a225ba7-f6b5-402c-b0a0-6384954768d3@0a22.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230621T134500Z
-DTEND:20230621T151500Z
-DTSTAMP:20230301T141234Z
-UID:2da1485b-6e3d-41a7-8583-b05dde94ad76@2da1.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230322T144500Z
-DTEND:20230322T161500Z
-DTSTAMP:20230301T141234Z
-UID:f4301c1b-723f-4a25-b473-3cf9a86a0869@f430.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230405T120000Z
-DTEND:20230405T133000Z
-DTSTAMP:20230301T141234Z
-UID:bf8d6063-0f68-4499-b28d-95dbd726ff8a@bf8d.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230607T120000Z
-DTEND:20230607T133000Z
-DTSTAMP:20230301T141234Z
-UID:6c353b71-b81a-4cdc-af17-c26654305ae4@6c35.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
-DTSTART:20230413T093000Z
-DTEND:20230413T110000Z
-DTSTAMP:20230301T141234Z
-UID:6cfd6ac9-e3d1-46ea-a037-278ee6453ce6@6cfd.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230322T103000Z
-DTEND:20230322T120000Z
-DTSTAMP:20230301T141234Z
-UID:2741eb80-2050-447c-95b0-7839d6a1147a@2741.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230510T074500Z
-DTEND:20230510T091500Z
-DTSTAMP:20230301T141234Z
-UID:70aa5f9b-2769-4dcc-86dd-fb6627b102fc@70aa.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
- i-Rechnerraum) C3-105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230531T134500Z
-DTEND:20230531T151500Z
-DTSTAMP:20230301T141234Z
-UID:af00365d-1858-4584-985a-2c52884bfce0@af00.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
-DTSTART:20230601T093000Z
-DTEND:20230601T110000Z
-DTSTAMP:20230301T141234Z
-UID:b0d5690c-f24e-4764-8b5a-40327d576bb7@b0d5.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230628T153000Z
-DTEND:20230628T170000Z
-DTSTAMP:20230301T141234Z
-UID:e7a33804-3992-41a9-b7e5-2669f6c14f83@e7a3.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Übung
-DTSTART:20230516T134500Z
-DTEND:20230516T151500Z
-DTSTAMP:20230301T141234Z
-UID:9cf6fde1-8459-4078-8142-8d715a9024aa@9cf6.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230531T074500Z
-DTEND:20230531T091500Z
-DTSTAMP:20230301T141234Z
-UID:f9725f28-3ee8-4adb-9620-eb4b3c85e0b6@f972.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
- i-Rechnerraum) C3-105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230328T060000Z
-DTEND:20230328T073000Z
-DTSTAMP:20230301T141234Z
-UID:1d21520a-5641-4278-8032-7b6d61f1b41b@1d21.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230419T074500Z
-DTEND:20230419T091500Z
-DTSTAMP:20230301T141234Z
-UID:2c815baa-9087-49fb-afda-bdaf04da84f7@2c81.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
- i-Rechnerraum) C3-105
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
 DTSTART:20230420T093000Z
 DTEND:20230420T110000Z
-DTSTAMP:20230301T141234Z
-UID:8a9d21be-7d87-4f88-acda-4bdc780a7038@8a9d.org
+DTSTAMP:20230301T151218Z
+UID:45ea5654-84d3-4c3f-9e29-b00c6f2aa965@45ea.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Hörsaal 40-150 aufsteigend
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230621T120000Z
-DTEND:20230621T133000Z
-DTSTAMP:20230301T141234Z
-UID:f6d9c3a7-8def-4ef6-8c90-342ac9d09357@f6d9.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230419T134500Z
-DTEND:20230419T151500Z
-DTSTAMP:20230301T141234Z
-UID:173e7140-13c8-4a4a-93d6-0f46d45138ff@173e.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Vorlesung
-DTSTART:20230324T103000Z
-DTEND:20230324T120000Z
-DTSTAMP:20230301T141234Z
-UID:2675c872-7e7d-44c4-9469-0d43cb2a7ac1@2675.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230405T093000Z
+DTEND:20230405T110000Z
+DTSTAMP:20230301T151218Z
+UID:4fed7591-6da1-474b-ab5d-653e1c730e81@4fed.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230405T074500Z
-DTEND:20230405T091500Z
-DTSTAMP:20230301T141234Z
-UID:34bfa92b-ac13-47ff-b777-1a9cbbfefb06@34bf.org
+DTSTART:20230322T084500Z
+DTEND:20230322T101500Z
+DTSTAMP:20230301T151218Z
+UID:45b7dcfd-fe87-4003-abb1-49fab1d7d287@45b7.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
  i-Rechnerraum) C3-105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230329T120000Z
-DTEND:20230329T133000Z
-DTSTAMP:20230301T141234Z
-UID:8d2d8363-d1e7-47f8-8bd3-e5bbb76260c8@8d2d.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230503T134500Z
-DTEND:20230503T151500Z
-DTSTAMP:20230301T141234Z
-UID:104ebdf7-6501-492d-a2a9-f185f2fa29af@104e.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230524T120000Z
-DTEND:20230524T133000Z
-DTSTAMP:20230301T141234Z
-UID:da25c4f3-198e-40c5-bcbc-e1408329a007@da25.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230524T153000Z
-DTEND:20230524T170000Z
-DTSTAMP:20230301T141234Z
-UID:db4221de-1bba-4ed7-8a9f-21449b07a9bb@db42.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Vorlesung
-DTSTART:20230414T093000Z
-DTEND:20230414T110000Z
-DTSTAMP:20230301T141234Z
-UID:6277bfd3-5203-4560-abaf-00fd59452b23@6277.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230620T060000Z
-DTEND:20230620T073000Z
-DTSTAMP:20230301T141234Z
-UID:8a5e7e90-cb91-48a4-9160-d3db12645475@8a5e.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230329T134500Z
-DTEND:20230329T151500Z
-DTSTAMP:20230301T141234Z
-UID:61560803-7897-4cf9-8970-4e9411d62537@6156.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Übung
-DTSTART:20230425T134500Z
-DTEND:20230425T151500Z
-DTSTAMP:20230301T141234Z
-UID:2ff2847a-536a-4068-96a2-005b84a241fc@2ff2.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parallele und verteilte Systeme SD Übung
-DTSTART:20230418T134500Z
-DTEND:20230418T151500Z
-DTSTAMP:20230301T141234Z
-UID:9525e742-4373-4287-84e7-1af155a6908c@9525.org
-DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Rechnerraum 40-140
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230621T074500Z
-DTEND:20230621T091500Z
-DTSTAMP:20230301T141234Z
-UID:e665597a-79cc-406a-b942-8b2e3c95b75c@e665.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
- i-Rechnerraum) C3-105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Übung
-DTSTART:20230517T120000Z
-DTEND:20230517T133000Z
-DTSTAMP:20230301T141234Z
-UID:41c5e5a2-146c-4887-b21b-e45ff751a2bf@41c5.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230531T153000Z
-DTEND:20230531T170000Z
-DTSTAMP:20230301T141234Z
-UID:cc10de20-d488-4864-8be9-075fe839727c@cc10.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230426T093000Z
+DTEND:20230426T110000Z
+DTSTAMP:20230301T151218Z
+UID:a5a44ae6-7259-49f0-8164-e020ddd7bd21@a5a4.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
-DTSTART:20230629T093000Z
-DTEND:20230629T110000Z
-DTSTAMP:20230301T141234Z
-UID:7946b0ad-3a95-459b-b745-a5750acb9874@7946.org
+DTSTART:20230504T093000Z
+DTEND:20230504T110000Z
+DTSTAMP:20230301T151218Z
+UID:707f399b-4bae-4373-abed-c8a4f2d53dc6@707f.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Hörsaal 40-150 aufsteigend
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
 DTSTART:20230420T134500Z
 DTEND:20230420T151500Z
-DTSTAMP:20230301T141234Z
-UID:2030aded-5773-4ee0-a293-929cdf7695c5@2030.org
+DTSTAMP:20230301T151218Z
+UID:781d062b-e031-49d2-9aac-b76d76f4f9af@781d.org
 DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
- isiert: 2023-03-01 15:12:34
+ isiert: 2023-03-01 16:12:18
 LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230524T134500Z
-DTEND:20230524T151500Z
-DTSTAMP:20230301T141234Z
-UID:771a858b-af4f-4be6-91cd-9d277f64fa41@771a.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+SUMMARY:Parallele und verteilte Systeme SD Vorlesung
+DTSTART:20230421T093000Z
+DTEND:20230421T110000Z
+DTSTAMP:20230301T151218Z
+UID:21c61106-cde7-4988-9701-6fc9c5337775@21c6.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IT-Sicherheit SD Vorlesung
-DTSTART:20230426T134500Z
-DTEND:20230426T151500Z
-DTSTAMP:20230301T141234Z
-UID:3da6dfda-d0cc-4a64-ad0e-b5474e83db67@3da6.org
+DTSTART:20230607T134500Z
+DTEND:20230607T151500Z
+DTSTAMP:20230301T151218Z
+UID:c155b3e6-fb13-4066-a040-93d7a26811db@c155.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230412T120000Z
+DTEND:20230412T133000Z
+DTSTAMP:20230301T151218Z
+UID:69593852-a673-4f6f-817c-60b11c246b92@6959.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
+DTSTART:20230328T060000Z
+DTEND:20230328T073000Z
+DTSTAMP:20230301T151218Z
+UID:30bb6d8f-8fd9-4a41-9d55-6f1875fc04cc@30bb.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230510T093000Z
+DTEND:20230510T110000Z
+DTSTAMP:20230301T151218Z
+UID:192b3594-d779-43ab-b0c3-9c3f82b891ba@192b.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
+DTSTART:20230614T074500Z
+DTEND:20230614T091500Z
+DTSTAMP:20230301T151218Z
+UID:b9dd4625-2f39-4193-adf1-f0c78596878e@b9dd.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
+ i-Rechnerraum) C3-105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230405T134500Z
+DTEND:20230405T151500Z
+DTSTAMP:20230301T151218Z
+UID:b168daf2-8be3-4f2f-94fd-0c3f90a7b71d@b168.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
+DTSTART:20230412T074500Z
+DTEND:20230412T091500Z
+DTSTAMP:20230301T151218Z
+UID:46f54d67-b660-4dda-91d1-f37e6e00b598@46f5.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
+ i-Rechnerraum) C3-105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
+DTSTART:20230426T074500Z
+DTEND:20230426T091500Z
+DTSTAMP:20230301T151218Z
+UID:5afd63fd-6649-42e3-8089-e1e86da6d8b2@5afd.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
+ i-Rechnerraum) C3-105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
+DTSTART:20230622T093000Z
+DTEND:20230622T110000Z
+DTSTAMP:20230301T151218Z
+UID:fd28d056-01c6-4ea6-94d3-1c68382a9b29@fd28.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
+DTSTART:20230413T134500Z
+DTEND:20230413T151500Z
+DTSTAMP:20230301T151218Z
+UID:13b0bb9d-225f-45dd-a8ef-20f18a0d0da6@13b0.org
+DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
+ isiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230524T153000Z
+DTEND:20230524T170000Z
+DTSTAMP:20230301T151218Z
+UID:76344a3c-d4af-44b5-98ee-caeefcf9d1d7@7634.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
+DTSTART:20230502T060000Z
+DTEND:20230502T073000Z
+DTSTAMP:20230301T151218Z
+UID:fa253544-9677-48d7-ac0d-ef71f1fff04a@fa25.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Vorlesung
+DTSTART:20230623T093000Z
+DTEND:20230623T110000Z
+DTSTAMP:20230301T151218Z
+UID:3ed1f8a6-2622-4688-bb09-70aa662a0183@3ed1.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Vorlesung
+DTSTART:20230616T093000Z
+DTEND:20230616T110000Z
+DTSTAMP:20230301T151218Z
+UID:03d7e376-10b3-423b-b38b-0dd67962cb25@03d7.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Vorlesung
+DTSTART:20230324T103000Z
+DTEND:20230324T120000Z
+DTSTAMP:20230301T151218Z
+UID:69cce091-65b7-40e2-833f-7d1e6aeba50d@69cc.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
+DTSTART:20230613T060000Z
+DTEND:20230613T073000Z
+DTSTAMP:20230301T151218Z
+UID:4c001ef6-9996-4920-b30e-a35ab3fd3616@4c00.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Vorlesung
+DTSTART:20230331T093000Z
+DTEND:20230331T110000Z
+DTSTAMP:20230301T151218Z
+UID:b5990599-94a0-4638-a5fe-abe28ea18b30@b599.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230628T153000Z
+DTEND:20230628T170000Z
+DTSTAMP:20230301T151218Z
+UID:02235690-99bf-4d69-9bea-74705698ec99@0223.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Übung
+DTSTART:20230523T134500Z
+DTEND:20230523T151500Z
+DTSTAMP:20230301T151218Z
+UID:44ffc7c9-990d-432a-a848-308c2c563914@44ff.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Vorlesung
+DTSTART:20230414T093000Z
+DTEND:20230414T110000Z
+DTSTAMP:20230301T151218Z
+UID:7454b426-33d4-491a-b99d-d620f1c40ce9@7454.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
+DTSTART:20230615T134500Z
+DTEND:20230615T151500Z
+DTSTAMP:20230301T151218Z
+UID:3bdd46d6-c313-421a-bb31-cb9bb013fec9@3bdd.org
+DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
+ isiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
 DTSTART:20230607T074500Z
 DTEND:20230607T091500Z
-DTSTAMP:20230301T141234Z
-UID:bd90294c-4a1a-439e-8e31-546d84292f32@bd90.org
+DTSTAMP:20230301T151218Z
+UID:1aa857ef-a7d6-49a5-b73c-e79a6e7177ed@1aa8.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
  i-Rechnerraum) C3-105
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
+DTSTART:20230405T074500Z
+DTEND:20230405T091500Z
+DTSTAMP:20230301T151218Z
+UID:eb4c15b0-5f0d-4b22-9918-51329b27b975@eb4c.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
+ i-Rechnerraum) C3-105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230607T153000Z
+DTEND:20230607T170000Z
+DTSTAMP:20230301T151218Z
+UID:cd125071-5cf0-44e8-beb6-51454db4ea88@cd12.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
+DTSTART:20230525T134500Z
+DTEND:20230525T151500Z
+DTSTAMP:20230301T151218Z
+UID:0d5a123d-6c84-41f0-a8e4-f8d8b943d918@0d5a.org
+DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
+ isiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
-DTSTART:20230418T060000Z
-DTEND:20230418T073000Z
-DTSTAMP:20230301T141234Z
-UID:4b5a3fb8-17cb-4002-8cfb-ca8b712957ec@4b5a.org
+DTSTART:20230523T060000Z
+DTEND:20230523T073000Z
+DTSTAMP:20230301T151218Z
+UID:0d223b37-8bfb-45fc-9ce7-a270d06b2939@0d22.org
 DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
- tzt aktualisiert: 2023-03-01 15:12:34
+ tzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230315T163000Z
+DTEND:20230315T180000Z
+DTSTAMP:20230301T151218Z
+UID:ccb28d6e-d9b1-4c78-94a3-da4029e8651d@ccb2.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
+DTSTART:20230524T074500Z
+DTEND:20230524T091500Z
+DTSTAMP:20230301T151218Z
+UID:efbc2eed-41d2-4ef7-a26f-cdfa4d703a39@efbc.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
+ i-Rechnerraum) C3-105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230705T093000Z
+DTEND:20230705T110000Z
+DTSTAMP:20230301T151218Z
+UID:b34bcb02-c084-4d9b-98cd-19091bd3d154@b34b.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
+DTSTART:20230329T074500Z
+DTEND:20230329T091500Z
+DTSTAMP:20230301T151218Z
+UID:9c44678f-1d72-4014-8bd4-f199e205e675@9c44.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
+ i-Rechnerraum) C3-105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Übung
+DTSTART:20230516T134500Z
+DTEND:20230516T151500Z
+DTSTAMP:20230301T151218Z
+UID:bf4507f7-4fec-42cb-abfc-f7b8bfa957cb@bf45.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230426T120000Z
+DTEND:20230426T133000Z
+DTSTAMP:20230301T151218Z
+UID:78a3317a-b399-4313-a2b7-e7eb3424cbdf@78a3.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
+DTSTART:20230503T074500Z
+DTEND:20230503T091500Z
+DTSTAMP:20230301T151218Z
+UID:b35bc57c-07f3-4bf8-8116-5e0359668d1d@b35b.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
+ i-Rechnerraum) C3-105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
+DTSTART:20230330T093000Z
+DTEND:20230330T110000Z
+DTSTAMP:20230301T151218Z
+UID:5bb0e2b8-55e8-4c0b-99a6-a85b3e3e7f30@5bb0.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Übung
+DTSTART:20230613T134500Z
+DTEND:20230613T151500Z
+DTSTAMP:20230301T151218Z
+UID:5dea508f-4e92-48e0-ab84-0ac48289bca2@5dea.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230329T153000Z
+DTEND:20230329T170000Z
+DTSTAMP:20230301T151218Z
+UID:799529de-e40c-455e-90e0-7a37bda8b180@7995.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230503T093000Z
+DTEND:20230503T110000Z
+DTSTAMP:20230301T151218Z
+UID:8bf3c700-6402-445b-91d7-4f9cbb1d9c64@8bf3.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230614T153000Z
+DTEND:20230614T170000Z
+DTSTAMP:20230301T151218Z
+UID:b3c6f836-9d4a-4eba-983e-c6360940182b@b3c6.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
+DTSTART:20230517T074500Z
+DTEND:20230517T091500Z
+DTSTAMP:20230301T151218Z
+UID:6dba5b7c-9ae7-440c-a2a2-f9838dc16dc0@6dba.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
+ i-Rechnerraum) C3-105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Übung
+DTSTART:20230627T134500Z
+DTEND:20230627T151500Z
+DTSTAMP:20230301T151218Z
+UID:f4c1e838-79e7-43a0-bcd2-f08a9eadead4@f4c1.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
+DTSTART:20230706T134500Z
+DTEND:20230706T151500Z
+DTSTAMP:20230301T151218Z
+UID:bc4fa4ba-42c8-432f-81d0-ed54077458f7@bc4f.org
+DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
+ isiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
+DTSTART:20230321T070000Z
+DTEND:20230321T083000Z
+DTSTAMP:20230301T151218Z
+UID:0b7488b4-9ca7-48d6-84ee-e675a23f86e2@0b74.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230531T120000Z
+DTEND:20230531T133000Z
+DTSTAMP:20230301T151218Z
+UID:edd1ff34-2326-476c-9960-7722825086dc@edd1.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
+DTSTART:20230404T060000Z
+DTEND:20230404T073000Z
+DTSTAMP:20230301T151218Z
+UID:1ce3622b-36c0-4645-b89c-14866ebbe86b@1ce3.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Vorlesung
+DTSTART:20230505T093000Z
+DTEND:20230505T110000Z
+DTSTAMP:20230301T151218Z
+UID:50f3d728-76ab-4867-af28-612aa858ca51@50f3.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
+DTSTART:20230628T074500Z
+DTEND:20230628T091500Z
+DTSTAMP:20230301T151218Z
+UID:428665a7-77ec-4c9d-8e3c-5ac380851758@4286.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
+ i-Rechnerraum) C3-105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230503T134500Z
+DTEND:20230503T151500Z
+DTSTAMP:20230301T151218Z
+UID:a7ae54b2-a378-434f-89ce-1f4e8047eb69@a7ae.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
+DTSTART:20230601T093000Z
+DTEND:20230601T110000Z
+DTSTAMP:20230301T151218Z
+UID:c96e2894-eda7-4f94-8fa9-3c6b8a237f28@c96e.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
+DTSTART:20230419T074500Z
+DTEND:20230419T091500Z
+DTSTAMP:20230301T151218Z
+UID:9be56d35-a1e0-4462-b599-f7d968c78e65@9be5.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
+ i-Rechnerraum) C3-105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230405T153000Z
+DTEND:20230405T170000Z
+DTSTAMP:20230301T151218Z
+UID:fd8a4020-cc4b-431c-8bca-d6aa9bd7d94e@fd8a.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mensch-Maschine-Schnittstelle SD Übung
+DTSTART:20230620T060000Z
+DTEND:20230620T073000Z
+DTSTAMP:20230301T151218Z
+UID:0c76527f-9be3-4b90-8f52-9fefa15efbe2@0c76.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
+DTSTART:20230323T144500Z
+DTEND:20230323T161500Z
+DTSTAMP:20230301T151218Z
+UID:249fe8b7-699f-429c-baf5-9f43549092de@249f.org
+DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
+ isiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230628T134500Z
+DTEND:20230628T151500Z
+DTSTAMP:20230301T151218Z
+UID:137ae750-95b1-42d7-a7c8-e4b6f8fa197e@137a.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230705T134500Z
+DTEND:20230705T151500Z
+DTSTAMP:20230301T151218Z
+UID:77d26380-3ca6-4ebb-b34a-4d47761f80dc@77d2.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230322T163000Z
+DTEND:20230322T180000Z
+DTSTAMP:20230301T151218Z
+UID:c54fdca4-6a0b-420c-b892-5af5c3e5892b@c54f.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230329T134500Z
+DTEND:20230329T151500Z
+DTSTAMP:20230301T151218Z
+UID:ac5cd0e5-2a9a-4745-87da-8ef00bea23f8@ac5c.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
+DTSTART:20230427T134500Z
+DTEND:20230427T151500Z
+DTSTAMP:20230301T151218Z
+UID:facb3faa-0185-4a71-b86e-bec28b1aedb7@facb.org
+DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
+ isiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230607T120000Z
+DTEND:20230607T133000Z
+DTSTAMP:20230301T151218Z
+UID:3760058f-e532-4c9f-892b-ec539bfb02ea@3760.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230607T093000Z
+DTEND:20230607T110000Z
+DTSTAMP:20230301T151218Z
+UID:16c18d0f-a462-43b6-b945-9c72ecfe7dfa@16c1.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Übung
+DTSTART:20230425T134500Z
+DTEND:20230425T151500Z
+DTSTAMP:20230301T151218Z
+UID:6adcf13c-d806-412d-a60e-076a162b4e2b@6adc.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Übung
+DTSTART:20230328T134500Z
+DTEND:20230328T151500Z
+DTSTAMP:20230301T151218Z
+UID:399af619-0d1b-4f8c-93cd-da2a9f26484b@399a.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230412T153000Z
+DTEND:20230412T170000Z
+DTSTAMP:20230301T151218Z
+UID:fc82cc20-8419-45eb-a602-485fddbf29b4@fc82.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230503T120000Z
+DTEND:20230503T133000Z
+DTSTAMP:20230301T151218Z
+UID:44e11428-ffbe-480b-bbeb-b18356a6455d@44e1.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230628T093000Z
+DTEND:20230628T110000Z
+DTSTAMP:20230301T151218Z
+UID:081ba174-633f-447c-bfb7-94e4496ddbc4@081b.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Vorlesung
+DTSTART:20230707T093000Z
+DTEND:20230707T110000Z
+DTSTAMP:20230301T151218Z
+UID:fdbd0a23-de04-4374-a4e1-f702934ae690@fdbd.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
+DTSTART:20230510T153000Z
+DTEND:20230510T170000Z
+DTSTAMP:20230301T151218Z
+UID:d4b70f8a-1606-43fe-98b3-83d8bd328203@d4b7.org
+DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
+  aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230405T120000Z
+DTEND:20230405T133000Z
+DTSTAMP:20230301T151218Z
+UID:b17226c0-eca4-4c02-b467-71ceaa055c98@b172.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230517T134500Z
+DTEND:20230517T151500Z
+DTSTAMP:20230301T151218Z
+UID:c1be6572-05b4-4c9b-9dea-eee56d84a6cf@c1be.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230412T093000Z
+DTEND:20230412T110000Z
+DTSTAMP:20230301T151218Z
+UID:e99e67cb-e7c7-464f-98c2-3dce6d1becb9@e99e.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Übung
+DTSTART:20230418T134500Z
+DTEND:20230418T151500Z
+DTSTAMP:20230301T151218Z
+UID:aadc3ba9-001d-4540-b6d6-413577dd8f87@aadc.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Übung
+DTSTART:20230620T134500Z
+DTEND:20230620T151500Z
+DTSTAMP:20230301T151218Z
+UID:535a52db-21d0-4fbe-a6cf-968a47f7bfb6@535a.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
+DTSTART:20230419T093000Z
+DTEND:20230419T110000Z
+DTSTAMP:20230301T151218Z
+UID:0d79119c-15c5-4038-bf96-dc289f053f0e@0d79.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
+ zt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parallele und verteilte Systeme SD Vorlesung
+DTSTART:20230519T093000Z
+DTEND:20230519T110000Z
+DTSTAMP:20230301T151218Z
+UID:fcd1b0db-8ff1-4c91-8909-8de8a712bc96@fcd1.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
+ n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal 40-150 aufsteigend
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230524T120000Z
+DTEND:20230524T133000Z
+DTSTAMP:20230301T151218Z
+UID:bca6cc3a-be1c-43ec-ab88-caf26b79fb07@bca6.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IT-Sicherheit SD Übung
 DTSTART:20230315T130000Z
 DTEND:20230315T143000Z
-DTSTAMP:20230301T141234Z
-UID:2e6cedf8-4005-4ef2-bc21-4ef443df87a9@2e6c.org
+DTSTAMP:20230301T151218Z
+UID:14b6c453-c6ff-4f25-96de-8308269cbb7f@14b6.org
 DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
- alisiert: 2023-03-01 15:12:34
+ alisiert: 2023-03-01 16:12:18
 LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Software-Architektur und Entwurfsmuster SD Vorlesung
-DTSTART:20230705T153000Z
-DTEND:20230705T170000Z
-DTSTAMP:20230301T141234Z
-UID:7dc8ea76-f5bb-4f53-b55f-f3987fc3efb1@7dc8.org
-DESCRIPTION:Vorlesung\nDozent: Schröder Mera\nGruppen: 1\, 2\n\n\nZuletzt
-  aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230531T093000Z
-DTEND:20230531T110000Z
-DTSTAMP:20230301T141234Z
-UID:4e2f7ce6-c583-4674-90e8-c16f2e4606d0@4e2f.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230405T093000Z
-DTEND:20230405T110000Z
-DTSTAMP:20230301T141234Z
-UID:2649a1f2-2112-4ff7-8c03-6792df496d66@2649.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal C3-102
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Agile Entwicklungsmethoden SD Vorlesung
-DTSTART:20230705T074500Z
-DTEND:20230705T091500Z
-DTSTAMP:20230301T141234Z
-UID:7b9d3832-625f-49b6-b6ac-a38fa038131f@7b9d.org
+DTSTART:20230531T074500Z
+DTEND:20230531T091500Z
+DTSTAMP:20230301T151218Z
+UID:11105566-c58e-45bd-86b8-3220121a56d3@1110.org
 DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
- nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 15:12:34
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
 LOCATION:Hörsaal C3-103\, Labor für Medizinische IT und Simulation (Komb
  i-Rechnerraum) C3-105
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
-DTSTART:20230615T093000Z
-DTEND:20230615T110000Z
-DTSTAMP:20230301T141234Z
-UID:58596aef-ece1-41b3-ae18-21936813d1c4@5859.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
+SUMMARY:IT-Sicherheit SD Übung
+DTSTART:20230614T120000Z
+DTEND:20230614T133000Z
+DTSTAMP:20230301T151218Z
+UID:27faa85c-9838-4e2b-819f-0401a01c7325@27fa.org
+DESCRIPTION:Übung\nDozent: Prof. Dr. Oetzel\nGruppen: 1\n\n\nZuletzt aktu
+ alisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mensch-Maschine-Schnittstelle SD Vorlesung
-DTSTART:20230511T093000Z
-DTEND:20230511T110000Z
-DTSTAMP:20230301T141234Z
-UID:f2eb0398-a8de-4a25-b990-50928b56fb36@f2eb.org
-DESCRIPTION:Vorlesung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\, 2\n\
- n\nZuletzt aktualisiert: 2023-03-01 15:12:34
-LOCATION:Hörsaal 40-150 aufsteigend
+SUMMARY:IT-Sicherheit SD Vorlesung
+DTSTART:20230621T134500Z
+DTEND:20230621T151500Z
+DTSTAMP:20230301T151218Z
+UID:13a01e64-cb25-4ff1-8ea1-c6a0b97ecc69@13a0.org
+DESCRIPTION:Vorlesung\nDozent: Prof. Dr. Illes-Seifert\, Prof. Dr. Oetzel\
+ nGruppen: 1\, 2\n\n\nZuletzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Hörsaal C3-102\, Hörsaal C3-103
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Projekt zu Agile Entwicklungsmethoden SD Übung
-DTSTART:20230614T093000Z
-DTEND:20230614T110000Z
-DTSTAMP:20230301T141234Z
-UID:1cdc2273-a1a5-4a84-b4b7-d3e92ebd7b3a@1cdc.org
-DESCRIPTION:Übung\nDozent: Prof. Dr. Illes-Seifert\nGruppen: 1\n\n\nZulet
- zt aktualisiert: 2023-03-01 15:12:34
+SUMMARY:Parallele und verteilte Systeme SD Übung
+DTSTART:20230502T134500Z
+DTEND:20230502T151500Z
+DTSTAMP:20230301T151218Z
+UID:3f973124-ebae-460c-9292-019a91057139@3f97.org
+DESCRIPTION:Übung\nDozent: Prof. Dr.-Ing Biedermann\nGruppen: 1\n\n\nZule
+ tzt aktualisiert: 2023-03-01 16:12:18
+LOCATION:Rechnerraum 40-140
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software-Architektur und Entwurfsmuster SD Übung
+DTSTART:20230622T134500Z
+DTEND:20230622T151500Z
+DTSTAMP:20230301T151218Z
+UID:1a156828-e5a0-4c96-9d11-dfb4d6a42511@1a15.org
+DESCRIPTION:Übung\nDozent: Schröder Mera\nGruppen: 1\n\n\nZuletzt aktual
+ isiert: 2023-03-01 16:12:18
 LOCATION:Hörsaal C3-102
 END:VEVENT
 END:VCALENDAR
